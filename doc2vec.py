@@ -91,7 +91,8 @@ def compare_vectors(vector1, vector2):
 
     return cosine_sim, euclidean_dist
 if __name__ == "__main__":
-    topic = "du-lich"
+    # Nhập tên topic và đường dẫn của thư mục
+    topic = input("Nhập tên topic: ")
     data_root_dir = f"data/vnexpress/{topic}/"
 
     # Huấn luyện mô hình Doc2Vec
@@ -102,11 +103,11 @@ if __name__ == "__main__":
 
     # Đọc một file cụ thể và lấy vector
     file_path_1 = "data/vnexpress/the-thao/alcaraz-muon-giu-vi-tri-so-mot-toi-het-nam-4530537.txt"
-    vector1 = get_vector_from_file(file_path_1)
+    vector1 = get_vector_from_file(file_path_1, "doc2vec_the-thao.model")
     file_path_2 = "data/vnexpress/du-lich/6-khach-san-viet-vao-top-sang-trong-nhat-dong-nam-a-4529357.txt"
-    vector2 =get_vector_from_file(file_path_2)
+    vector2 = get_vector_from_file(file_path_2, "doc2vec_the-thao.model")
     file_path_3 = "data/vnexpress/du-lich/ben-trong-du-thuyen-dau-gia-hon-35-ty-dong-cua-flc-4527411.txt"
-    vector3 = get_vector_from_file(file_path_3)
+    vector3 = get_vector_from_file(file_path_3, "doc2vec_du-lich.model")
 
     # So sánh hai vector
     compare_vectors(vector1, vector2)
