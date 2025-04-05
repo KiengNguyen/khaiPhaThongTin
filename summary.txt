@@ -14,13 +14,13 @@ THỐNG KÊ SỐ LƯỢNG TÀI LIỆU:
 - thoi-su: 53 tài liệu
 
 TỪ QUAN TRỌNG NHẤT THEO DANH MỤC:
-- cong-nghe: [vượt trội] (độ quan trọng: 0.8709999918937683)
-- giai-tri: [val kilmer] (độ quan trọng: 0.9419999718666077)
-- giao-duc: [trúng tuyển] (độ quan trọng: 0.9302999973297119)
-- khoa-hoc: [tối ưu hóa] (độ quan trọng: 0.8736000061035156)
-- kinh-doanh: [phương dung] (độ quan trọng: 0.8801000118255615)
-- phap-luat: [sơ thẩm] (độ quan trọng: 0.9057999849319458)
-- suc-khoe: [bệnh lý] (độ quan trọng: 0.9678999781608582)
-- the-gioi: [nato] (độ quan trọng: 0.9302999973297119)
-- the-thao: [bielefeld] (độ quan trọng: 0.9610000252723694)
-- thoi-su: [vũ tuân] (độ quan trọng: 0.8877999782562256)
+- cong-nghe: [vượt trội] (độ quan trọng: 0.8791000247001648)
+- giai-tri: [batman] (độ quan trọng: 0.9501000046730042)
+- giao-duc: [trúng tuyển] (độ quan trọng: 0.9215999841690063)
+- khoa-hoc: [tối ưu hóa] (độ quan trọng: 0.863099992275238)
+- kinh-doanh: [colusa] (độ quan trọng: 0.871999979019165)
+- phap-luat: [sơ thẩm] (độ quan trọng: 0.9107000231742859)
+- suc-khoe: [bệnh lý] (độ quan trọng: 0.9692999720573425)
+- the-gioi: [nato] (độ quan trọng: 0.925000011920929)
+- the-thao: [bielefeld] (độ quan trọng: 0.9563999772071838)
+- thoi-su: [sơn hà] (độ quan trọng: 0.8755000233650208)
