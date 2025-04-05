@@ -11,7 +11,7 @@ from sklearn.preprocessing import MinMaxScaler
 def read_labeled_documents(folder_path):
     documents = []
     labels = []
-    for label in os.listdir(folder_path):
+    for label in os.listdir(folder_path):  # Đây là thư mục con, ví dụ: 'the_thao', 'chinh_tri'
         label_folder = os.path.join(folder_path, label)
         if os.path.isdir(label_folder):
             for filename in os.listdir(label_folder):
@@ -19,7 +19,7 @@ def read_labeled_documents(folder_path):
                     file_path = os.path.join(label_folder, filename)
                     with open(file_path, "r", encoding="utf-8") as f:
                         documents.append(f.read())
-                        labels.append(label)
+                        labels.append(label)  # Nhãn lấy từ tên thư mục con
     return documents, labels
 
 # Đọc dữ liệu huấn luyện và kiểm thử
