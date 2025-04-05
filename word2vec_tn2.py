@@ -68,7 +68,6 @@ print(f"Đã xử lý thành công {success_count} tài liệu, {error_count} l�
 
 if len(all_sentences) > 0:
     print("Đang huấn luyện mô hình Word2Vec...")
-    # 0 cbow , 1 skipgram
     model = Word2Vec(all_sentences, vector_size=100, window=5, sg=1, min_count=5, epochs=30)
     print("Đã hoàn thành huấn luyện mô hình Word2Vec")
 
@@ -176,7 +175,6 @@ model.save("word2vec.model")  # Lưu mô hình
 # Cho phép import model_w2v từ file khác
 model_w2v = model
 
-# Thêm vào cuối skipgram.py
 def document_vector(model, document):
     """
     Hàm tính vector trung bình của các từ trong tài liệu dựa trên mô hình Word2Vec.

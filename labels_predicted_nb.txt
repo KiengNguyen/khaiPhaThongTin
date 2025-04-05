@@ -2,7 +2,7 @@ cong-nghe
 thoi-su
 thoi-su
 giai-tri
-thoi-su
+suc-khoe
 thoi-su
 thoi-su
 suc-khoe
@@ -19,7 +19,7 @@ giao-duc
 thoi-su
 thoi-su
 thoi-su
-the-thao
+the-gioi
 thoi-su
 the-gioi
 thoi-su
@@ -40,8 +40,8 @@ the-gioi
 thoi-su
 thoi-su
 thoi-su
-giai-tri
 thoi-su
+the-gioi
 thoi-su
 giao-duc
 thoi-su
@@ -103,14 +103,14 @@ thoi-su
 thoi-su
 thoi-su
 thoi-su
-thoi-su
+suc-khoe
 thoi-su
 suc-khoe
 thoi-su
 giao-duc
 suc-khoe
 thoi-su
-thoi-su
+giai-tri
 thoi-su
 suc-khoe
 giao-duc
@@ -119,7 +119,7 @@ thoi-su
 thoi-su
 thoi-su
 thoi-su
-thoi-su
+suc-khoe
 thoi-su
 thoi-su
 thoi-su
@@ -128,7 +128,7 @@ suc-khoe
 thoi-su
 thoi-su
 thoi-su
-thoi-su
+the-gioi
 suc-khoe
 thoi-su
 cong-nghe
@@ -145,7 +145,7 @@ thoi-su
 thoi-su
 thoi-su
 giao-duc
-thoi-su
+the-gioi
 suc-khoe
 giao-duc
 the-gioi
@@ -192,7 +192,7 @@ the-gioi
 thoi-su
 thoi-su
 thoi-su
-thoi-su
+the-gioi
 thoi-su
 thoi-su
 thoi-su
@@ -214,7 +214,7 @@ thoi-su
 thoi-su
 thoi-su
 thoi-su
-the-thao
+giai-tri
 the-gioi
 thoi-su
 giao-duc
