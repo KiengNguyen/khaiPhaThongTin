@@ -22,7 +22,7 @@ all_sentences = []
 all_documents = []
 
 # Đường dẫn đến thư mục chính
-data_dir = 'vnexpress_data'
+data_dir = 'data/vnexpress_data'
 
 # Đếm số file đã xử lý thành công
 success_count = 0

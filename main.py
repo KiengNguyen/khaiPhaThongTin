@@ -37,7 +37,7 @@ def read_labeled_documents(folder_path):
     return documents, labels
 
 # Đọc dữ liệu và nhãn thực tế
-documents, labels = read_labeled_documents("vnexpress_tap_kiem_thu")
+documents, labels = read_labeled_documents("data/vnexpress_tap_kiem_thu")
 print(f"📂 Đã đọc {len(documents)} văn bản với {len(labels)} nhãn.")
 
 # Chuyển các văn bản thành vector

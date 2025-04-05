@@ -90,12 +90,12 @@ if __name__ == "__main__":
     train_doc2vec_for_each_topic(data_root_dir)
 
     # Đọc một file cụ thể và lấy vector
-    file_path_1 = "data/vnexpress/the-thao/alcaraz-muon-giu-vi-tri-so-mot-toi-het-nam-4530537.txt"
+    file_path_1 = "data/vnexpress_data/the-thao/7_sai_lầm_runner_hay_mắc_phải_khi_chấn_thương.txt"
     vector1 = get_vector_from_file(file_path_1,"doc2vec_the-thao.model")
-    file_path_2 = "data/vnexpress/du-lich/6-khach-san-viet-vao-top-sang-trong-nhat-dong-nam-a-4529357.txt"
-    vector2 = get_vector_from_file(file_path_2,"doc2vec_the-thao.model")
-    file_path_3 = "data/vnexpress/du-lich/ben-trong-du-thuyen-dau-gia-hon-35-ty-dong-cua-flc-4527411.txt"
-    vector3 = get_vector_from_file(file_path_3,"doc2vec_du-lich.model")
+    file_path_2 = "data/vnexpress_data/suc-khoe/4_món_ăn_uống_không_tốt_cho_tinh_binh.txt"
+    vector2 = get_vector_from_file(file_path_2,"doc2vec_suc-khoe.model")
+    file_path_3 = "data/vnexpress_data/suc-khoe/7_hiểu_lầm_về_bệnh_sởi_ở_người_lớn.txt"
+    vector3 = get_vector_from_file(file_path_3,"doc2vec_suc-khoe.model")
 
     # So sánh hai vector
     compare_vectors(vector1, vector2)
