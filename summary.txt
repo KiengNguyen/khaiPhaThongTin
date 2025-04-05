@@ -1,0 +1,26 @@
+TÓM TẮT PHÂN TÍCH DỮ LIỆU VNEXPRESS
+==================================================
+
+THỐNG KÊ SỐ LƯỢNG TÀI LIỆU:
+- cong-nghe: 43 tài liệu
+- giai-tri: 48 tài liệu
+- giao-duc: 51 tài liệu
+- khoa-hoc: 37 tài liệu
+- kinh-doanh: 47 tài liệu
+- phap-luat: 43 tài liệu
+- suc-khoe: 46 tài liệu
+- the-gioi: 47 tài liệu
+- the-thao: 47 tài liệu
+- thoi-su: 53 tài liệu
+
+TỪ QUAN TRỌNG NHẤT THEO DANH MỤC:
+- cong-nghe: [android] (độ quan trọng: 0.7294999957084656)
+- giai-tri: [forever] (độ quan trọng: 0.7825000286102295)
+- giao-duc: [phổ điểm] (độ quan trọng: 0.8176000118255615)
+- khoa-hoc: [rodier] (độ quan trọng: 0.6797999739646912)
+- kinh-doanh: [bidv] (độ quan trọng: 0.7753000259399414)
+- phap-luat: [tín nhiệm] (độ quan trọng: 0.7764999866485596)
+- suc-khoe: [rượu bia] (độ quan trọng: 0.8564000129699707)
+- the-gioi: [nato] (độ quan trọng: 0.7315000295639038)
+- the-thao: [trận man] (độ quan trọng: 0.852400004863739)
+- thoi-su: [xã phường] (độ quan trọng: 0.7121999859809875)
