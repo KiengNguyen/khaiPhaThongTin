@@ -14,13 +14,13 @@ THỐNG KÊ SỐ LƯỢNG TÀI LIỆU:
 - thoi-su: 53 tài liệu
 
 TỪ QUAN TRỌNG NHẤT THEO DANH MỤC:
-- cong-nghe: [khẩu độ] (độ quan trọng: 0.7196999788284302)
-- giai-tri: [forever] (độ quan trọng: 0.7802000045776367)
-- giao-duc: [phổ điểm] (độ quan trọng: 0.8222000002861023)
-- khoa-hoc: [rodier] (độ quan trọng: 0.6654000282287598)
-- kinh-doanh: [bidv] (độ quan trọng: 0.7771000266075134)
-- phap-luat: [tín nhiệm] (độ quan trọng: 0.7914000153541565)
-- suc-khoe: [rượu bia] (độ quan trọng: 0.8636000156402588)
-- the-gioi: [idf] (độ quan trọng: 0.7297999858856201)
-- the-thao: [trận man] (độ quan trọng: 0.8483999967575073)
-- thoi-su: [lạng sơn] (độ quan trọng: 0.7128000259399414)
+- cong-nghe: [android] (độ quan trọng: 0.7267000079154968)
+- giai-tri: [batman] (độ quan trọng: 0.777400016784668)
+- giao-duc: [phổ điểm] (độ quan trọng: 0.8234999775886536)
+- khoa-hoc: [rodier] (độ quan trọng: 0.6687999963760376)
+- kinh-doanh: [bidv] (độ quan trọng: 0.777999997138977)
+- phap-luat: [tín nhiệm] (độ quan trọng: 0.7753000259399414)
+- suc-khoe: [rượu bia] (độ quan trọng: 0.866100013256073)
+- the-gioi: [vũ trang] (độ quan trọng: 0.7312999963760376)
+- the-thao: [trận man] (độ quan trọng: 0.8499000072479248)
+- thoi-su: [long tuyền] (độ quan trọng: 0.7041000127792358)

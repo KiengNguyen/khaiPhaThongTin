@@ -1,18 +1,11 @@
 import os
 import numpy as np
 import pickle
-from tfidf import compute_tfidf_vectors
-from sklearn.model_selection import train_test_split
+from tfidf import compute_tfidf_vectors  # Import function từ tfidf.py
 from sklearn.neighbors import KNeighborsClassifier, NearestCentroid
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.feature_extraction.text import TfidfVectorizer
-
-def compute_tfidf_vectors(documents, max_features=1000):
-    vectorizer = TfidfVectorizer(max_features=max_features)
-    X = vectorizer.fit_transform(documents)
-    return X
 
 # Hàm đọc văn bản và nhãn
 def read_labeled_documents(folder_path):
@@ -29,59 +22,78 @@ def read_labeled_documents(folder_path):
                         labels.append(label)
     return documents, labels
 
-# Đọc dữ liệu
-documents, labels = read_labeled_documents("data/vnexpress_tap_kiem_thu")
-print(f"📂 Đã đọc {len(documents)} văn bản với {len(labels)} nhãn.")
+# Đọc dữ liệu huấn luyện và kiểm thử
+train_documents, train_labels = read_labeled_documents("data/vnexpress_data")
+test_documents, test_labels = read_labeled_documents("data/vnexpress_tap_kiem_thu")
 
-# ----- TF-IDF vectors -----
-X_tfidf = compute_tfidf_vectors(documents)
-X = X_tfidf.toarray()
+print(f"Đã đọc {len(train_documents)} văn bản huấn luyện và {len(test_documents)} văn bản kiểm thử.")
 
-# Chia dữ liệu
-X_train, X_test, y_train, y_test = train_test_split(X, labels, test_size=0.2, random_state=42)
+# Tính toán vector TF-IDF cho văn bản huấn luyện và kiểm thử
+X_train_tfidf = compute_tfidf_vectors(train_documents)
+X_test_tfidf = compute_tfidf_vectors(test_documents)
+y_train = train_labels
+y_test = test_labels
 
-# Chuẩn hóa
+# Chuẩn hóa dữ liệu TF-IDF
 scaler = MinMaxScaler()
-X_train_scaled = scaler.fit_transform(X_train)
-X_test_scaled = scaler.transform(X_test)
+X_train_scaled = scaler.fit_transform(X_train_tfidf.toarray())  # Chuyển đổi từ sparse matrix thành array
+X_test_scaled = scaler.transform(X_test_tfidf.toarray())  # Chuyển đổi từ sparse matrix thành array
 
-# KNN
+# Huấn luyện và lưu KNN
 knn = KNeighborsClassifier(n_neighbors=5)
 knn.fit(X_train_scaled, y_train)
-y_pred_knn = knn.predict(X_test_scaled)
+with open("knn_model.pkl", "wb") as f:
+    pickle.dump(knn, f)
 
-# Naïve Bayes
+# Huấn luyện và lưu Naïve Bayes
 nb = MultinomialNB()
 nb.fit(X_train_scaled, y_train)
-y_pred_nb = nb.predict(X_test_scaled)
+with open("nb_model.pkl", "wb") as f:
+    pickle.dump(nb, f)
 
-# Rocchio (Nearest Centroid)
+# Huấn luyện và lưu Rocchio
 rocchio = NearestCentroid()
 rocchio.fit(X_train_scaled, y_train)
+with open("rocchio_model.pkl", "wb") as f:
+    pickle.dump(rocchio, f)
+
+# Dự đoán
+y_pred_knn = knn.predict(X_test_scaled)
+y_pred_nb = nb.predict(X_test_scaled)
 y_pred_rocchio = rocchio.predict(X_test_scaled)
 
-# Hàm đánh giá
-def evaluate_model(name, y_true, y_pred):
-    precision = precision_score(y_true, y_pred, average='weighted', zero_division=1)
-    recall = recall_score(y_true, y_pred, average='weighted', zero_division=1)
-    f1 = f1_score(y_true, y_pred, average='weighted', zero_division=1)
-    accuracy = accuracy_score(y_true, y_pred)
-    print(f"🎯 {name} Accuracy: {accuracy:.4f}, Precision: {precision:.4f}, Recall: {recall:.4f}, F1-Score: {f1:.4f}")
-    return precision, recall, f1, accuracy
+# Đánh giá KNN
+print("KNN:")
+print(f"  Accuracy: {accuracy_score(y_test, y_pred_knn):.4f} | "
+      f"Precision: {precision_score(y_test, y_pred_knn, average='weighted', zero_division=1):.4f} | "
+      f"Recall: {recall_score(y_test, y_pred_knn, average='weighted', zero_division=1):.4f} | "
+      f"F1-score: {f1_score(y_test, y_pred_knn, average='weighted', zero_division=1):.4f}")
 
-# Đánh giá
-evaluate_model("KNN", y_test, y_pred_knn)
-evaluate_model("Naïve Bayes", y_test, y_pred_nb)
-evaluate_model("Rocchio", y_test, y_pred_rocchio)
+# Đánh giá Naïve Bayes
+print("Naïve Bayes:")
+print(f"  Accuracy: {accuracy_score(y_test, y_pred_nb):.4f} | "
+      f"Precision: {precision_score(y_test, y_pred_nb, average='weighted', zero_division=1):.4f} | "
+      f"Recall: {recall_score(y_test, y_pred_nb, average='weighted', zero_division=1):.4f} | "
+      f"F1-score: {f1_score(y_test, y_pred_nb, average='weighted', zero_division=1):.4f}")
 
-# Ghi kết quả nhãn dự đoán ra file
+# Đánh giá Rocchio
+print("Rocchio:")
+print(f"  Accuracy: {accuracy_score(y_test, y_pred_rocchio):.4f} | "
+      f"Precision: {precision_score(y_test, y_pred_rocchio, average='weighted', zero_division=1):.4f} | "
+      f"Recall: {recall_score(y_test, y_pred_rocchio, average='weighted', zero_division=1):.4f} | "
+      f"F1-score: {f1_score(y_test, y_pred_rocchio, average='weighted', zero_division=1):.4f}")
+
+# Lưu kết quả dự đoán
 with open("labels_predicted_knn.txt", "w", encoding="utf-8") as f:
-    f.writelines(label + "\n" for label in y_pred_knn)
+    for label in y_pred_knn:
+        f.write(label + "\n")
 
 with open("labels_predicted_nb.txt", "w", encoding="utf-8") as f:
-    f.writelines(label + "\n" for label in y_pred_nb)
+    for label in y_pred_nb:
+        f.write(label + "\n")
 
 with open("labels_predicted_rocchio.txt", "w", encoding="utf-8") as f:
-    f.writelines(label + "\n" for label in y_pred_rocchio)
+    for label in y_pred_rocchio:
+        f.write(label + "\n")
 
-print("\n✅ Đã lưu nhãn dự đoán vào file.")
+print("\nĐã lưu kết quả phân loại vào file.")
