@@ -107,9 +107,9 @@ rocchio_f1 = f1_score(y_test, y_pred_rocchio, average='weighted', zero_division=
 rocchio_accuracy = accuracy_score(y_test, y_pred_rocchio)
 
 # In kết quả đánh giá
-print(f"🎯 KNN Accuracy: {knn_accuracy:.4f}, Precision: {knn_precision:.4f}, Recall: {knn_recall:.4f}, F1-Score: {knn_f1:.4f}")
-print(f"🎯 Naïve Bayes Accuracy: {nb_accuracy:.4f}, Precision: {nb_precision:.4f}, Recall: {nb_recall:.4f}, F1-Score: {nb_f1:.4f}")
-print(f"🎯 Rocchio Accuracy: {rocchio_accuracy:.4f}, Precision: {rocchio_precision:.4f}, Recall: {rocchio_recall:.4f}, F1-Score: {rocchio_f1:.4f}")
+print(f"🎯 KNN Precision: {knn_precision:.4f}, Recall: {knn_recall:.4f}, F1-Score: {knn_f1:.4f}")
+print(f"🎯 Naïve Bayes  Precision: {nb_precision:.4f}, Recall: {nb_recall:.4f}, F1-Score: {nb_f1:.4f}")
+print(f"🎯 Rocchio Precision: {rocchio_precision:.4f}, Recall: {rocchio_recall:.4f}, F1-Score: {rocchio_f1:.4f}")
 
 
 # Lưu nhãn phân lớp vào file

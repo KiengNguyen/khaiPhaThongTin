@@ -86,7 +86,7 @@ def compare_vectors(vector1, vector2):
     return cosine_sim, euclidean_dist
 
 if __name__ == "__main__":
-    data_root_dir = "data/vnexpress/"  # Thư mục gốc chứa các chủ đề
+    data_root_dir = "data/vnexpress_data/"  # Thư mục gốc chứa các chủ đề
     train_doc2vec_for_each_topic(data_root_dir)
 
     # Đọc một file cụ thể và lấy vector
