@@ -1,0 +1,42 @@
+Từ đầu tháng 2, Nguyễn Vũ Thiên Trang liên tiếp nhận thư trúng tuyển và học bổng các chương trình tiến sĩ ở Mỹ và Thụy Sĩ, cuối cùng chọn khoa Khoa học máy tính, Đại học Carnegie Mellon. Ngôi trường được US News xếp đồng hạng nhất với Học viện Công nghệ Massachusetts và Đại học Standford về đào tạo ngành này ở Mỹ. Tổng hỗ trợ gần 420.000 USD (10,7 tỷ đồng), bao gồm học phí và trợ cấp cho 5 năm.
+
+"Mình hạnh phúc vì giấc mơ đã trở thành hiện thực, cũng hồi hộp vì hành trình sắp tới sẽ đầy thử thách thú vị", cô gái 24 tuổi bày tỏ.
+
+Nữ nghiên cứu viên của VinAI sẽ sang Mỹ nhập học vào tháng 8, mong muốn nghiên cứu Trí tuệ nhân tạo (AI) theo hướng vừa dễ sử dụng, vừa đảm bảo quyền riêng tư và an toàn cho người dùng.
+
+Nguyễn Vũ Thiên Trang. Ảnh: Nhân vật cung cấp
+
+Hành trình theo đuổi AI của Thiên Trang bắt đầu từ một quyết định chớp nhoáng năm lớp 12. Nữ sinh chuyên Anh chọn ngành Khoa học dữ liệu và Trí tuệ nhân tạo của Đại học Bách khoa Hà Nội chỉ hai tuần trước hạn chốt nguyện vọng.
+
+"Mình ít nghĩ xa, mà thường chớp lấy cơ hội trước mắt hơn. Lựa chọn và thi đỗ vào trường là một cái duyên", Trang nói, cho hay dù học chuyên Anh, cô vẫn được học các môn tự nhiên từ cơ bản đến chuyên sâu nên ôn thi không mấy khó khăn.
+
+Nền tảng ngoại ngữ tốt giúp Thiên Trang học và nghiên cứu thuận lợi hơn. Trang ví dụ hầu hết bài báo khoa học về AI được viết bằng tiếng Anh, nên kỹ năng đọc và viết rất quan trọng. Ngoài ra, từ khi tham gia nghiên cứu, Trang nghe và nói tiếng Anh nhiều hơn để kết nối, trao đổi với các chuyên gia, sinh viên nước ngoài.
+
+Thời điểm này là năm thứ hai đại học, khi Thiên Trang được nhận vào một nhóm ở phòng nghiên cứu Khoa học dữ liệu (lab). Dự án đầu tiên, cũng là niềm tự hào lớn của Trang, tập trung vào việc sử dụng một biến thể của dropout để cải thiện các mô hình học liên tục (continual learning). Hoàn thiện vào cuối năm 2022, bài báo được đăng trên tạp chí Machine Learning, xếp hạng Q1 (nhóm uy tín nhất). Thiên Trang là đồng tác giả chính (co-first author).
+
+"Bài báo đánh dấu những bước chân chập chững của mình trên con đường nghiên cứu và giúp mình học thêm rất nhiều kỹ năng", Trang nhìn nhận.
+
+TS Ngô Văn Linh, giảng viên trường Công nghệ thông tin và Truyền thông, Đại học Bách khoa Hà Nội, ấn tượng với ý chí kiên định, tư duy sắc bén và tinh thần làm việc nghiêm túc, không ngại thử thách của Trang.
+
+"Bạn ấy đã đóng góp chính, từ xây dựng nền tảng lý thuyết, phát triển thuật toán, cho đến thực nghiệm và viết bài báo khoa học", thầy cho hay. "Sau đó, Trang nhanh chóng thể hiện sự độc lập và sáng tạo, mở rộng nghiên cứu sang các hướng mới".
+
+Vừa học vừa nghiên cứu, để không bị quá tải, Trang thay đổi thói quen làm việc theo cảm hứng sang lập kế hoạch rõ ràng. Ngoài lịch học trên lớp và ba buổi cố định ở lab, Trang làm bài tập và nghiên cứu thêm vào buổi tối. Nhờ vậy, năm 2023, Thiên Trang tốt nghiệp xuất sắc với điểm trung bình 3.89/4, thuộc nhóm 8% sinh viên đạt thành tích này ở Bách khoa Hà Nội.
+
+Thiên Trang tốt nghiệp Đại học Bách khoa Hà Nội, tháng 9/2023. Ảnh: Nhân vật cung cấp
+
+Sau tốt nghiệp, Thiên Trang dành toàn bộ thời gian cho nghiên cứu ở chương trình AI Residency, VinAI. Càng làm nhiều, đam mê nghiên cứu càng lớn, cô quyết định du học bậc tiến sĩ.
+
+Ngoài điểm IELTS, các bài luận, Trang tập trung "làm dày" kinh nghiệm nghiên cứu. Cô đi sâu vào hỗn hợp các chuyên gia (mixture of experts), một kỹ thuật giảm chi phí tính toán của mô hình AI, và tấn công cửa hậu (backdoor attacks). Năm 2024, Thiên Trang có tên trong năm bài báo đăng trên tạp chí của các hội nghị Trí tuệ nhân tạo hàng đầu thế giới như NeurIPS, ICLR, AAAI...
+
+Theo Trang, phần nào trong hồ sơ cũng quan trọng, nhưng điểm học tập và công bố khoa học là cần chuẩn bị lâu dài nhất.
+
+"Đây là những thứ mình quyết tâm làm tốt dù có du học hay không", Trang nói.
+
+Anh Hồ Phạm Minh Nhật, giáo sư bậc một (Assistant Professor) về Khoa học dữ liệu, Thống kê và Học máy ở Đại học Texas - Austin, là người hướng dẫn Trang nghiên cứu. Anh đánh giá Trang tiến bộ nhờ tinh thần chủ động, chăm chỉ và sáng tạo.
+
+"Những bài báo gần đây của Trang được cộng đồng AI đánh giá tích cực", anh Nhật nói.
+
+Thiên Trang cho hay sẽ cải thiện kỹ năng nghiên cứu, mong từng bước trở thành chuyên gia về Trí tuệ nhân tạo trong 5 năm ở Mỹ.
+
+Phương Anh
+

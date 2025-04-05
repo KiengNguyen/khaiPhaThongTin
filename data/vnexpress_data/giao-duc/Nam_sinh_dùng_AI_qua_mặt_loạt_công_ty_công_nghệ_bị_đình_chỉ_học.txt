@@ -1,0 +1,18 @@
+Lee chia sẻ thư thông báo của Văn phòng quản lý sinh viên, Đại học Columbia, ngày 26/3 trên trang cá nhân LinkedIn. Nam sinh 21 tuổi bị đình chỉ học vì đã "công bố các tài liệu trái phép" sau buổi họp kỷ luật liên quan đến Interview Coder.
+
+Chungin "Roy" Lee là sinh viên ngành Khoa học máy tính. Nam sinh ra mắt Interview Coder cuối năm ngoái. AI này chuyên giải các bài toán mã hóa tương tự LeetCode, nền tảng phổ biến trong các buổi phỏng vấn kỹ thuật của các công ty công nghệ. Nó có thể hiểu cả câu hỏi dạng văn bản lẫn lời nói, sau đó tự động viết mã, tối ưu và đưa ra lời giải thích chi tiết để ứng viên đọc lại như thể chính họ nghĩ ra. Nhờ nó, nam sinh nhận nhiều lời mời thực tập, gồm cả những tên tuổi như Amazon, TikTok, Meta.
+
+Lee nói công cụ này "miễn nhiễm" với các hệ thống phát hiện màn hình trên Zoom hay Google Meet, thậm chí "không thể bị phát hiện qua webcam". Để chứng minh hiệu quả của nó, nam sinh từng đăng tải một video quay lại cảnh mình vượt qua buổi phỏng vấn của Amazon trên Youtube, nhưng sau đó gỡ bỏ.
+
+Nam sinh cho hay không nhắm đến công việc mà chỉ muốn chứng minh LeetCode dễ bị "qua mặt", buộc các công ty phải tìm một phương thức tuyển dụng công bằng và hiệu quả hơn. Lee hiện bán sản phẩm với giá 60 USD một tháng, tuyên bố công ty khởi nghiệp của mình sắp đạt doanh thu định kỳ một triệu USD mỗi năm.
+
+"Mọi người ngày nay đều lập trình với sự trợ giúp của AI. Thật vô nghĩa khi có một định dạng phỏng vấn cho rằng bạn không sử dụng nó", Lee nói.
+
+Chungin "Roy" Lee. Ảnh:X/im_roy_lee
+
+Cuối năm 2022, làn sóng AI tạo sinh bùng nổ với sự ra mắt của ChatGPT. Nhiều chuyên gia nhìn nhận các công cụ gian lận bằng AI đã cải tiến đến mức gần như không thể phát hiện trong năm qua.
+
+Trước thực trạng này, nhiều công ty công nghệ xem xét điều chỉnh quy trình tuyển nhân sự. Chẳng hạn, Google cân nhắc quay lại hình thức phỏng vấn trực tiếp. Studio.init làm tương tự, sau khi phát hiện hơn 50% ứng viên gian lận bằng AI trong một vòng tuyển dụng.
+
+Doãn Hùng (Theo Business Insider, Times of India, X, LinkedIn, CNBC)
+

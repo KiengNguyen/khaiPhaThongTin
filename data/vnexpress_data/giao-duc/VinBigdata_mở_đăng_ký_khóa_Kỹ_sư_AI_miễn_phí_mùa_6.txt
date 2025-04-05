@@ -1,0 +1,30 @@
+Chương trình nhận hồ sơ ứng tuyển đến hết ngày 15/5 với 70 chỉ tiêu. Đối tượng tuyển sinh là sinh viên năm cuối, học viên chương trình sau đại học, cử nhân, kỹ sư trẻ, thạc sĩ mới tốt nghiệp chuyên ngành Công nghệ thông tin, Trí tuệ nhân tạo, Khoa học máy tính, Điện tử - Viễn thông, Toán - Tin hoặc chuyên ngành kỹ thuật phù hợp tại các trường đại học trong, ngoài nước.
+
+Điều kiện xét tuyển bao gồm: GPA tối thiểu 3.0 và năng lực tiếng Anh tương đương IELTS 6.0, TOEFL iBT 65, TOEIC 600 trở lên. Ứng viên sẽ trải qua ba vòng xét chọn bao gồm: sàng lọc hồ sơ; kiểm tra đầu vào chuyên môn Toán - Lập trình, Tiếng Anh và phỏng vấn cùng hội đồng chuyên gia. Các bạn có chứng chỉ còn hạn hoặc du học tại các quốc gia sử dụng tiếng Anh là ngôn ngữ chính được miễn kiểm tra tiếng Anh.
+
+Chương trình Đào tạo Kỹ sư AI khởi động khóa đầu tiên từ tháng 8/2020 nhằm đào tạo kỹ sư công nghệ chất lượng cao, góp phần xây dựng lực lượng nhân sự nòng cốt trong lĩnh vực khoa học công nghệ Việt Nam.
+
+Sau 5 mùa với bốn khóa tuyển sinh, chương trình đã giúp nhiều tài năng trẻ định hướng và phát triển sự nghiệp trong môi trường chuyên nghiệp. Nhiều học viên tốt nghiệp đã trở thành giảng viên các trường đại học, nhận học bổng, công tác tại tập đoàn công nghệ trong nước và quốc tế.
+
+Lộ trình đào tạo chương trình được chia thành hai giai đoạn chính, đảm bảo cân bằng giữa kiến thức chuyên sâu và đào tạo thực chiến. Giai đoạn nền tảng kéo dài bốn tháng với các môn Học máy cơ bản và nâng cao, Thị giác máy tính, Xử lý ngôn ngữ tự nhiên, Đại số tuyến tính, Xác suất thống kê, Đạo đức nghề AI, AI tạo sinh, cùng các môn bổ trợ như Python, MLOps, Kỹ thuật dữ liệu.
+
+Chương trình đào tạo chuyên môn và kỹ năng mềm. Ảnh: VinBigdata
+
+Bên cạnh đó, khóa đào tạo trang bị cho học viên kỹ năng mềm, tổ chức chuỗi hội thảo chuyên sâu liên quan đến các dự án công nghệ trọng điểm của Tập đoàn Vingroup. Kết thúc bốn tháng nền tảng, người học bước vào giai đoạn thực tập, trải nghiệm môi trường làm việc chuyên nghiệp và có cơ hội tham gia dự án công nghệ lớn như Phát triển Trợ lý ảo ViVi tích hợp AI tạo sinh, Mô hình Ngôn ngữ thị giác ViGPT, Giải pháp phân tích hình ảnh thông minh...
+
+Bên cạnh việc bồi đắp kinh nghiệm thực chiến trong quá trình học, với nền tảng đào tạo theo lộ trình, học viên có cơ hội chinh phục và sở hữu công bố khoa học tại những hội nghị, tạp chí hàng đầu về trí tuệ nhân tạo như EMNLP (Hội nghị Xử lý Ngôn ngữ Tự nhiên lớn nhất thế giới), ICCV (Hội thảo lớn thứ 3 thế giới về Xử lý ảnh y tế), NCAA (Tạp chí Q1 trong lĩnh vực AI)...
+
+Học viên cũng có thể tiến xa và đạt được thành công trên trường quốc tế với học bổng Thạc sĩ, Tiến sĩ từ những trường đại học danh giá như Đại học California San Diego (Mỹ), Đại học Pennsylvania (Mỹ), Đại học Notre Dame (Australia), Viện Khoa học Công nghệ tiên tiến Nhật Bản, Đại học Quản lý Singapore (Singapore), Đại học Thanh Hoa (Trung Quốc)...
+
+Nguyễn Ngọc Duy Hưng - học viên khóa 2, người nhận học bổng toàn phần sau khi tốt nghiệp và đang theo học Thạc sĩ tại Đại học California San Diego chia sẻ, những kiến thức anh học được từ chương trình giúp ích rất nhiều trong việc hoàn thành luận văn đại học và viết các bài báo nghiên cứu khoa học, những yếu tố quan trọng trong quá trình xin học bổng.
+
+"Việc tham gia chương trình là một bước ngoặt lớn, mở ra nhiều cơ hội, giúp tôi định hình rõ ràng hơn con đường phía trước", Hưng nhấn mạnh.
+
+Một buổi học của chương trình Đào tạo Kỹ sư AI Vingroup. Ảnh: VinBigdata
+
+Là người đã gắn bó với chương trình từ những ngày đầu, GS. Vũ Hà Văn - Giám đốc Khoa học VinBigdata - đơn vị triển khai Chương trình Đào tạo Kỹ sư AI Vingroup, khẳng định qua 5 mùa tuyển sinh, chương trình đã chứng minh hiệu quả, đánh giá qua chất lượng đầu vào lẫn đầu ra của học viên. Số lượng hồ sơ ứng tuyển tăng mạnh, đồng thời, chất lượng cũng ngày càng cao.
+
+"Học viên tốt nghiệp chương trình cũng được các doanh nghiệp đánh giá cao, nhận mức đãi ngộ tương đương với người có 3-4 năm kinh nghiệm", ông nói.
+
+Nhật Lệ
+

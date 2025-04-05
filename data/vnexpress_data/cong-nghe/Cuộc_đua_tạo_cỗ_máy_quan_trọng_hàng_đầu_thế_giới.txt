@@ -1,0 +1,48 @@
+Hầu hết lĩnh vực liên quan đến chip xử lý cao cấp, từ CPU trong máy tính đến GPU để huấn luyện AI đều phụ thuộc vào ASML có trụ sở ở Eindhoven, Hà Lan. Đây là công ty duy nhất sở hữu công cụ in thạch bản cần thiết cho sản xuất chip theo tiến trình dưới 5 nm.
+
+Trên mỗi vi xử lý có hàng tỷ bóng bán dẫn và nm (nanometer) là đơn vị đo kích thước bóng bán dẫn. Kích thước càng nhỏ, vi xử lý càng chứa được nhiều, từ đó hoạt động nhanh và hiệu quả hơn. Ví dụ, chip sử dụng quy trình 5 nm của TSMC có khoảng 173 triệu bóng bán dẫn trên một milimet vuông.
+
+Sản phẩm mới nhất của ASML là cỗ máy quang khắc siêu cực tím (EUV) khổng lồ nặng 150 tấn, kích thước tương đương hai máy bay chở khách Airbus A320 và giá 380 triệu USD. Tuy nhiên, điều này cũng đặt ASML vào trọng tâm của cuộc chiến bán dẫn toàn cầu. Mỹ đã nỗ lực ngăn công ty Hà Lan bán máy quang khắc cho các nhà sản xuất Trung Quốc để hạn chế nước này đạt thêm bước tiến mới.
+
+Một cỗ máy quang khắc của ASML. Ảnh: ASML
+
+Các hãng khác có gì?
+
+Nhiều năm qua, Trung Quốc bị hạn chế mua máy EUV và đang khai thác các hệ thống DUV nhập khẩu từ trước. Họ kết hợp tạo nhiều mẫu, chia thành nhiều giai đoạn khắc để có thể in chi tiết nhỏ bằng một nửa. Tuy nhiên, việc này làm tăng độ phức tạp và làm chậm quá trình sản xuất, từ đó giảm năng suất và nâng giá thành.
+
+Trung Quốc cũng đang xây dựng công cụ quang khắc riêng khi đổ hàng tỷ USD vào các giải pháp thay thế trong nước. Công ty SMEE được cho là đang đạt bước tiến với cỗ máy có khả năng sản xuất chip 28 nm dùng công nghệ DUV.
+
+"Nhưng phát triển một hệ thống EUV là thách thức hoàn toàn khác", chuyên gia Jeff Koch của công ty nghiên cứu SemiAnalysis nhận định. "Ngoài việc làm chủ ánh sáng EUV, Trung Quốc cần tạo lập chuỗi cung ứng rộng lớn như của ASML, trải dài hơn 5.000 nhà cung cấp chuyên biệt".
+
+Một số công ty cũng bắt đầu đẩy nhanh giải pháp riêng. Canon của Nhật Bản đặt cược vào một công nghệ Nanoimprint Lithography (NIL), giúp "đóng dấu" mẫu mạch trực tiếp lên tấm wafer giống máy in. Về mặt lý thuyết, NIL có thể tạo chip với độ chính xác nanomet nhưng kích thước cỗ máy nhỏ gọn, giá thành thấp hơn so với máy EUV của ASML.
+
+Về quy trình, NIL tạo ra một lớp mặt nạ chính, mẫu mạch được khắc lên đó bằng chùm tia điện tử. Các giọt nhựa lỏng được bôi lên wafer trước khi lớp mặt nạ ép mẫu mạch lên wafer. Ánh sáng cực tím được sử dụng để làm đông cứng nhựa và tạo thành các mẫu mạch. Cuối cùng, lớp mặt nạ được gỡ bỏ. Các bước như vậy lặp lại cho mọi lớp chip. Canon ước tính phương pháp của họ có chi phí thấp hơn khoảng 40% so với hệ thống tương đương từ ASML.
+
+Tuy nhiên, để trở thành công cụ sản xuất chip đại trà, họ phải vượt qua một số thách thức. Chẳng hạn, quá trình bôi nhựa lỏng có thể gây ra sai sót, làm lỗi tấm wafer. Vì chip được chế tạo theo từng lớp, các mẫu mạch của mỗi lớp phải thẳng hàng chính xác, nếu không cũng tạo lỗi cấp độ nano, làm "đứt" các kết nối điện. Ngoài ra, số lượng wafer tạo được trong mỗi giờ rất ít, thấp hơn nhiều lần mức 180 của ASML.
+
+NIL đang đạt được nhiều thành công ngoài lĩnh vực sản xuất bán dẫn, chủ yếu trong việc sản xuất màn hình smartphone và các thành phần có độ chính xác cao. Công nghệ này hiện thâm nhập vào sản xuất chip nhớ, nơi tỷ lệ lỗi có thể chấp nhận được so với chip logic.
+
+"NIL có thể cùng tồn tại với công nghệ in thạch bản EUV, thực hiện các khâu sản xuất giá rẻ ở những nơi có thể và tiến tới các chi tiết tinh xảo hơn thời gian tới", Iwamoto Kazunori, người đứng đầu bộ phận quang học của Canon, cho biết.
+
+Ngoài Canon, Nikon cũng có một số giải pháp quang khắc. Đầu thập niên 1990, họ là nhà cung cấp thiết bị in thạch bản cho Intel. Tuy nhiên, khi ASML thương mại hóa công nghệ quang khắc tia cực tím EUV, Nikon dần hụt hơi. Gần đây, họ được cho là đang thúc đẩy i-Line, công nghệ được thương mại hóa lần đầu năm 1990, để thiết kế máy gia công chip cho các hãng Trung Quốc.
+
+Tháng 8 năm ngoái, Viện Khoa học và Công nghệ Okinawa (OIST) cho biết đã thiết kế thiết bị quang khắc cực tím EUV giúp giảm đáng kể chi phí sản xuất chất bán dẫn từ 7 nm trở xuống. Thiết bị do giáo sư Tsumoru Shintake và các cộng sự phát triển, có kết cấu đơn giản và rẻ hơn sản phẩm từ ASML. Nếu được sản xuất hàng loạt, nó được đánh giá có thể định hình lại ngành thiết bị sản xuất chip.
+
+Đầu năm nay, Mỹ chi gần tỷ USD đầu tư vào trung tâm EUV Accelerator với mục tiêu phát triển máy EUV khẩu độ số cao tiên tiến. Dự kiến, trung tâm cung cấp quyền truy cập vào EUV NA tiêu chuẩn vào năm nay và EUV High-NA vào năm 2026 cho các thành viên của Trung tâm Công nghệ Bán dẫn Quốc gia Mỹ (NTSC) và tổ chức Natcast.
+
+Sức mạnh của hệ thống ASML
+
+Cỗ máy tiên tiến nhất của ASML sử dụng công nghệ khẩu độ số lớn (High-NA EUV). Thiết bị hoạt động bằng cách bắn 50.000 giọt thiếc nóng chảy vào buồng chân không. Mỗi giọt sẽ chịu tác động kép: đầu tiên là từ một xung laser yếu với mục đích làm phẳng ra như bánh kếp, sau đó một tia laser mạnh làm nó bốc hơi. Quá trình này biến mỗi giọt thiếc thành plasma nóng, đạt gần 220.000 độ C, tức nóng hơn bề mặt Mặt Trời khoảng 40 lần và phát ra tia cực tím có bước sóng cực ngắn (EUV).
+
+Ánh sáng này tiếp tục được phản chiếu bởi một loạt các gương rất mịn đến mức khuyết điểm của nó được đo bằng phần nghìn tỷ mét. Các gương sẽ tập trung ánh sáng vào khuôn mẫu chứa bản thiết kế mạch của chip. Cuối cùng, các tia tiếp tục phản xạ lên một tấm wafer silicon được phủ hóa chất nhạy sáng để in chip.
+
+Công cụ của ASML phức tạp, nhưng nguyên lý cơ bản rất giống với máy chiếu slide cũ: ánh sáng đi qua một khuôn in để chiếu hình ảnh lên bề mặt. Một công cụ quang khắc phụ thuộc chủ yếu vào bước sóng ánh sáng. Giống như cây cọ mịn hơn cho phép vẽ ra nét chi tiết hơn, bước sóng ngắn hơn giúp tạo mẫu khắc nhỏ hơn.
+
+Bên cạnh đó, một vi mạch, tức một đế bóng bán dẫn, được phủ bằng các lớp dây đồng để vận chuyển dữ liệu và năng lượng. Một bộ xử lý tiên tiến có thể đóng gói hơn 100 tỷ bóng bán dẫn, chứa hơn 70 lớp và có hơn 100 km dây trên miếng silicon có kích thước bằng 1,5 lần so với một con tem bưu chính tiêu chuẩn.
+
+Trước khi có EUV, ASML cũng tiên phong phát triển các cỗ máy quang khắc cực tím sâu DUV với bước sóng từ 248 đến 193 nm, tạo các chi tiết nhỏ đến 38 nm. Tuy nhiên, DUV với bước sóng 13,5 hay gần nhất là 8 nm khiến mọi thứ phức tạp hơn nhiều. Ánh sáng EUV được hấp thụ bởi không khí, kính và hầu hết vật liệu, vì thế quá trình này phải được bao bọc trong chân không, sử dụng gương đặc biệt để phản chiếu. ASML cho biết đã dành hai thập kỷ hoàn thiện phương pháp bắn tia laser vào giọt thiếc nóng chảy để tạo ra "chùm tia khó nắm bắt" này.
+
+Dù sở hữu công nghệ tiên tiến nhất, ASML đang đặt tham vọng thu nhỏ hơn nữa bước sóng nhằm sản xuất mẫu chip tiến trình thấp hơn. Điều này đồng nghĩa các cỗ máy phải có thêm nhiều gương hơn, khiến trọng lượng lớn và tiêu thụ nhiều điện năng. Ngoài ra, bước sóng ngắn hơn cũng tạo thách thức mới là tiếng ồn rất lớn, theo chuyên gia Yasin Ekinci của Viện Paul Scherrer, trung tâm nghiên cứu bán dẫn của Thụy Sĩ.
+
+Bảo Lâm
+

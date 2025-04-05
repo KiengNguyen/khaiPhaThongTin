@@ -1,0 +1,16 @@
+"Video do AI tạo ra có thể gặp khó khăn khi duy trì tính nhất quán trong việc kể chuyện", Runway viết trên X ngày 1/4. "Bằng cách sử dụng tài liệu tham khảo trực quan kết hợp câu lệnh hướng dẫn, Gen-4 cho phép người dùng tạo hình ảnh và video với phong cách, chủ đề, địa điểm thống nhất, liên tục và khả năng kiểm soát trong câu chuyện".
+
+Một số cảnh quay và phim ngắn do Runway Gen-4 tạo ra. Video: YouTube/Runway
+
+Cũng theo Runway, Gen-4 có thể tạo chính xác nhân vật, địa điểm, sau đó ghép cảnh quay, tái tạo các yếu tố từ nhiều góc nhìn và vị trí theo ý muốn người dùng. Kết quả là cảnh trở nên liền mạch, đồng thời "giữ nguyên phong cách, tâm trạng và các yếu tố điện ảnh đặc trưng của từng khung hình".
+
+Gen-4 hiện được triển khai cho người dùng trả phí và doanh nghiệp. Để sử dụng, họ truy cập vào công cụ của Runway, tạo nội dung ban đầu bằng câu lệnh hoặc ảnh tham chiếu, sau đó mô tả bố cục mong muốn.
+
+Runway không nêu chi tiết quá trình huấn luyện Gen-4, nhưng đăng một loạt video dài 60-100 giây do AI thực hiện với nhiều thể loại, từ người thực đến hoạt hình. Chẳng hạn, video về một phụ nữ giữ nguyên vẻ ngoài trong các cảnh quay và bối cảnh, điều kiện ánh sáng khác nhau. Theo The Verge, các đoạn phim "có độ nhất quán và liền mạch hơn hẳn các trình tạo video AI hiện nay" như Sora của OpenAI.
+
+Gen-4 được Runway giới thiệu sau một năm ra Gen-3 Alpha, cho phép người dùng tạo video dài hơn một phút. Gen-3 Alpha từng gây tranh cãi vì được cho là đào tạo trên hàng nghìn video lấy từ YouTube và các kho phim nhưng không xin phép.
+
+Runway là startup nổi tiếng về AI ra đời năm 2018, cung cấp công cụ hỗ trợ người dùng chỉnh sửa video nhanh, như xóa phông hay thêm hiệu ứng. Công ty cũng dựng kỹ xảo AI cho phim đoạt Oscar Everything Everywhere All At Once.
+
+Bảo Lâm (Theo The Verge)
+

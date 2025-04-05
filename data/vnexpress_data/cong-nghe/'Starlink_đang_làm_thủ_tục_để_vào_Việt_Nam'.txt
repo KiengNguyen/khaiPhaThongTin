@@ -1,0 +1,32 @@
+Trong buổi làm việc với Phó thủ tướng Nguyễn Chí Dũng ngày 1/4, Bộ Khoa học và Công nghệ cho biết đang tiến hành nhiều biện pháp để thúc đẩy hạ tầng số, trong đó đặt ra hai nhiệm vụ chính năm nay là tăng tốc độ Internet di động bằng việc phủ sóng 5G và thí điểm dịch vụ viễn thông sử dụng vệ tinh tầm thấp.
+
+Với nhiệm vụ thứ hai, ngày 23/3, Chính phủ đã ban hành quyết định cho SpaceX, công ty do Elon Musk sáng lập, thí điểm có kiểm soát trong việc triển khai dịch vụ viễn thông sử dụng công nghệ vệ tinh quỹ đạo tầm thấp Starlink.
+
+Thiết bị Internet vệ tinh Starlink của SpaceX trong lần thử nghiệm tại Hòa Lạc, Hà Nội, tháng 10/2023. Ảnh: Lưu Quý
+
+Ông Nguyễn Thành Chung, Cục trưởng Viễn thông, cho biết đang làm việc với SpaceX để hỗ trợ doanh nghiệp này hoàn thiện các khâu tiếp theo trước khi có thể hoạt động ở Việt Nam. Trong đó, hai việc cần sớm được hoàn thành là SpaceX thành lập doanh nghiệp và lắp đặt Trạm cổng mặt đất trên lãnh thổ Việt Nam.
+
+"Họ đang chuẩn bị hồ sơ, thiết bị để đưa sang Việt Nam", ông Chung nói, thêm rằng việc này sẽ hoàn thành trong năm nay.
+
+Trước đó, quyết định của Chính phủ cũng đưa ra yêu cầu và điều kiện thí điểm với SpaceX, như thời hạn 5 năm và phải kết thúc trước 1/1/2031, với số lượng thuê bao tối đa 600.000, đồng thời đảm bảo yêu cầu về quốc phòng, an ninh. Nhà cung cấp phải đặt Trạm cổng mặt đất (Trạm Gateway) trên lãnh thổ Việt Nam, bảo đảm tất cả lưu lượng do thuê bao vệ tinh tạo ra trên lãnh thổ Việt Nam đều đi qua Trạm Gateway và kết nối vào mạng viễn thông công cộng trong nước. Dịch vụ cũng phải bảo đảm thông tin, dữ liệu của người sử dụng dịch vụ tại Việt Nam được lưu trữ tại Việt Nam; thực hiện các yêu cầu về ngăn chặn nguồn phát tán mã độc, tấn công mạng, thông tin xấu độc.
+
+SpaceX chưa đưa ra thông tin nào về việc này. Trước đó, công ty nhiều lần thể hiện mong muốn phủ sóng Internet vệ tinh tại Việt Nam.
+
+Theo Bộ trưởng Khoa học và Công nghệ Nguyễn Mạnh Hùng, Internet vệ tinh hoạt động sẽ giúp phủ sóng Internet tới các vùng sâu vùng xa. Bên cạnh đó, ông cũng yêu cầu cần đẩy mạnh tốc độ mạng di động và giao cho Cục Viễn thông "tăng gấp đôi tốc độ truy nhập Internet di động trong năm nay".
+
+Theo đại diện Cục, đơn vị này sẽ tiến hành giải pháp tổng thể để thúc đẩy 5G trong nước nói riêng, Internet di động nói chung, bao gồm mở rộng phạm vi phủ sóng bằng cách tăng tốc độ triển khai trạm; bổ sung dung lượng cáp quang biển; đẩy nhanh việc mở các trung tâm dữ liệu; thúc đẩy việc tiếp cận thiết bị 5G cho người dùng cũng như các gói cước hợp lý.
+
+Bộ trưởng Nguyễn Mạnh Hùng nhiều lần khẳng định tầm quan trọng của hạ tầng số. Hạ tầng số được tạo thành từ các mảnh ghép hạ tầng viễn thông băng rộng, hạ tầng điện toán đám mây với hạ tầng công nghệ số và các nền tảng số.
+
+Theo Bộ trưởng, cần coi hạ tầng số quan trọng như hạ tầng giao thông, trong khi việc thiết lập nhanh và rẻ hơn. "Hạ tầng giao thông là dòng chảy vật chất. Hạ tầng số là dòng chảy dữ liệu. Hai dòng chảy này phải luôn tương xứng với nhau. Nhưng hạ tầng số rẻ hơn rất nhiều so với hạ tầng giao thông, có thể làm nhanh hơn, có thể hiện đại ngay", ông nói tại hội nghị triển khai Nghị quyết 26 của Bộ Chính trị hồi tháng 11/2022.
+
+Bộ trưởng Nguyễn Mạnh Hùng trong buổi làm việc với Phó thủ tướng Nguyễn Chí Dũng tại Bộ Khoa học và Công nghệ, ngày 1/4. Ảnh: Lưu Quý
+
+Bộ Khoa học và Công nghệ thời gian qua đã thực hiện nhiều biện pháp thúc đẩy hạ tầng số phát triển, trong đó đóng góp xây dựng Nghị quyết 193 của Quốc hội ban hành vào tháng 2, đồng thời soạn thảo Nghị định quy định chi tiết và hướng dẫn thi hành.
+
+Để phát triển hạ tầng viễn thông, Nhà nước sẽ tham gia đầu tư hạ tầng số, đặc biệt về 5G, cáp quang biển. "Bình thường mỗi nhà mạng đầu tư một năm chỉ xung quanh 5.000 trạm 5G. Nếu muốn họ đầu tư một năm 20.000 trạm để phủ sóng nhanh và trước thì Nhà nước phải hỗ trợ", ông Nguyễn Mạnh Hùng nói tại hội nghị đầu tháng 3. Mức hỗ trợ của Nghị quyết 193 cho phép là 15% tổng giá trị đầu tư, với điều kiện nhà mạng triển khai mới 20.000 trạm tính đến cuối 2025. Thực tế sau khi Nghị quyết ra đời, Bộ cho biết đã có hai doanh nghiệp là Viettel, VNPT dự kiến triển khai số trạm BTS 5G đạt mức này.
+
+Internet di động thời gian qua cũng có nhiều chuyển biến khi sau hơn 5 tháng mạng 5G được triển khai, với tốc độ tính đến tháng 2 đạt 144,5 Mbps, xếp thứ 19 thế giới trên bảng xếp hạng của Ookla.
+
+Lưu Quý
+

@@ -1,0 +1,24 @@
+Tạp chí Atlantic của Mỹ ngày 26/3 đăng toàn bộ nội dung trong nhóm chat "Houthi PC small group" trên ứng dụng nhắn tin Signal. Nhóm do các quan chức cấp cao Nhà Trắng lập ra và Cố vấn An ninh quốc gia Mike Waltz vô tình mời Tổng biên tập Jeffrey Goldberg của báo này vào.
+
+Vụ lộ thông tin gây nhiều tranh cãi trong nội bộ Mỹ và khiến quan hệ giữa Washington vói đồng minh châu Âu thêm căng thẳng, nhưng cũng cho thấy sự tin tưởng của các quan chức nước này với ứng dụng nhắn tin bảo mật từng được nhiều hacker sử dụng.
+
+Signal cho biết số lượt tải app trong tuần qua cao gấp đôi so với tuần trước. Ứng dụng hiện có 30 triệu người dùng hàng tháng, không có quảng cáo, gần như không thu thập dữ liệu người dùng và hạn chế tính năng tìm kiếm tài khoản khác trên cùng nền tảng, khiến các bài đăng Signal không thể trở nên phổ biến và lan rộng trong cộng đồng.
+
+"Mỗi khi có sự cố công nghệ lớn hoặc một vụ rò rỉ dữ liệu nghiêm trọng, Signal lại tăng trưởng đột biến", lãnh đạo Signal Meredith Whittaker nói trong cuộc phỏng vấn năm 2024.
+
+Logo Signal trên màn hình điện thoại. Ảnh: Reuters
+
+Whittaker nhấn mạnh tính bảo mật và quyền riêng tư so với các đối thủ cạnh tranh như WhatsApp và iMessage, đồng thời khẳng định ứng dụng được tạo ra để phục vụ công chúng. "Chúng tôi tập trung vào sứ mệnh duy trì kết nối ý nghĩa, thân mật và riêng tư với những người thân cận, điều ngày càng khó thực hiện trong thế giới hiện nay", ông cho hay.
+
+Signal ra đời năm 2014 và được phát triển bởi Moxie Marlinspike, tên thật là Matthew Rosenfeld. Ông huy động kinh phí phát triển từ nhiều khoản tài trợ và quyên góp khác nhau. Nhà đồng sáng lập WhatsApp và Signal Foundation Brian Acton đã cho quỹ điều hành vay tổng cộng hơn 105 triệu USD.
+
+Signal Foundation trở thành tổ chức phi lợi nhuận năm 2018. Theo Whittaker, người gia nhập ban lãnh đạo năm 2020 và giữ vai trò Chủ tịch từ 2022, họ chi khoảng 50 triệu USD mỗi năm cho hoạt động của mình. Phần lớn ngân sách hiện tại được dành cho cơ sở hạ tầng, như thuê máy chủ và phần cứng từ Amazon, Google và Microsoft.
+
+Ứng dụng tận dụng những giai đoạn quan trọng để vươn lên thành lựa chọn cho nhiều người, nhận được sự công nhận từ những người nổi tiếng như Elon Musk. Năm 2015, cựu điệp viên Mỹ Edward Snowden tuyên bố ủng hộ Signal, cho rằng ứng dụng có thể giúp ngăn chặn sự giám sát của chính phủ.
+
+Theo Whittaker, một trong những lý do giúp Signal phát triển thành mạng lưới liên lạc toàn cầu là cơ chế mã hóa được cung cấp dưới dạng mã nguồn mở, qua đó dần xây dựng lòng tin với những người quan tâm đến vấn đề bảo mật. Signal đang nỗ lực tạo ra ứng dụng tiện lợi cho cả những người không quá quan tâm đến quyền riêng tư, giúp duy trì hiệu ứng mạng mà không dễ dàng bị thay thế.
+
+"Đôi khi tôi cảm thấy mình giống như một con rồng canh trước cửa hang, bảo vệ viên ngọc quý mà chúng tôi có. Chúng tôi phải duy trì nó", Whittaker nói.
+
+Điệp Anh (Theo Wall Street Journal)
+

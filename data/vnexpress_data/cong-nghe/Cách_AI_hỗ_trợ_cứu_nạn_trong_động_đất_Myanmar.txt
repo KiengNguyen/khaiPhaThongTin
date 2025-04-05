@@ -1,0 +1,28 @@
+Từ sáng ngày 29/3, một vệ tinh hướng camera tầm xa đến thành phố Mandalay ở Myanmar, nơi cách không xa tâm chấn trận động đất mạnh 7,7 độ richter trước đó một ngày. Nhiệm vụ của vệ tinh là chụp ảnh, kết hợp AI để giúp chính phủ và tổ chức cứu trợ đánh giá nhanh chóng thông tin quan trọng, như bao nhiêu tòa nhà sụp đổ hoặc bị hư hại, nơi nào cần người cứu trợ nhất.
+
+Phần này hiện do Microsoft phụ trách, với hệ thống vệ tinh từ Planet Labs. Tuy nhiên, mức độ hiệu quả của phương pháp sử dụng công nghệ thị giác máy tính này vẫn phụ thuộc vào thời tiết. "Thách thức lớn nhất là mây. Không có cách nào nhìn xuyên qua đám mây với công nghệ này", Juan Lavista Ferres, nhà khoa học dữ liệu chính của Microsoft, nói với AP.
+
+Lực lượng cứu hộ tìm kiếm người sống sót sau động đất tại Mandalay, Myanmar ngày 29/3. Ảnh: AP
+
+Nhóm nghiên cứu phải đợi đám mây di chuyển, thường mất vài tiếng. Khi đó, một vệ tinh khác từ Planet Labs, trụ sở tại San Francisco (Mỹ), sẽ chụp được ảnh trên không và gửi đến phòng thí nghiệm AI for Good Lab của Microsoft.
+
+Sau khi phân tích hoàn tất bằng AI, hệ thống của Microsoft nhận thấy có 515 tòa nhà ở Mandalay bị hư hại 80-100% và 1.524 tòa nhà khác hư hại 20-80%, con số cho thấy mức độ nghiêm trọng của thảm họa. Quan trọng hơn, số liệu giúp xác định chính xác những vị trí thiệt hại cụ thể.
+
+"Đây là thông tin hữu ích đối với các đội tìm kiếm cứu nạn thực địa", Lavista Ferres cho biết.
+
+Microsoft cho biết họ "chỉ đóng vai trò hướng dẫn sơ bộ và sẽ yêu cầu xác minh thực tế để hiểu rõ hơn". Tuy nhiên, thông qua việc chia sẻ với các nhóm cứu trợ như Hội Chữ thập đỏ, công nghệ giúp đánh giá nhanh chóng thảm họa.
+
+Planet Labs cho biết họ hiện sở hữu 15 vệ tinh đang quay quanh Trái Đất. Kể từ khi động đất Myanmar diễn ra, hệ thống đã chụp khoảng hơn 10 địa điểm ở Myanmar và Thái Lan để gửi về cho AI for Good Lab.
+
+Trước đó, phòng thí nghiệm của Microsoft cũng từng đánh giá thiệt hại thiên tai bằng AI qua ảnh vệ tinh, chẳng hạn theo dõi trận lũ lụt thảm khốc ở Libya năm 2023 hoặc vụ cháy rừng đầu năm nay ở Los Angeles. Tuy nhiên, theo Microsoft, thay vì dựa vào mô hình thị giác máy tính AI tiêu chuẩn, họ phải xây dựng một phiên bản tùy chỉnh dành riêng cho một số thành phố bị hậu quả nghiêm trọng, như Mandalay.
+
+"Trái Đất quá khác biệt. Các thảm họa thiên nhiên quá khác biệt. Hình ảnh chúng ta nhận được từ vệ tinh quá khác biệt để ứng phó trong mọi tình huống", Ferres nói. Ông lấy ví dụ, trong khi đám cháy lan rộng theo cách khá dễ đoán, một trận động đất sẽ ảnh hưởng đến toàn bộ thành phố. Do đó, khó nhận biết được ngay nơi nào cần giúp đỡ đầu tiên.
+
+Hệ thống AI for Good Lab cũng được ứng dụng để bảo vệ động vật có nguy cơ tuyệt chủng cao. Microsoft cho biết sẽ trang bị các cảm biến và micro chạy bằng năng lượng mặt trời, ghi lại âm thanh động vật, sau đó dùng AI để phát hiện loài nào qua tiếng kêu, từ đó xác định được vị trí và hướng di chuyển của chúng. Giới chuyên gia đánh giá cách này nhanh, rẻ và tốt hơn trong hỗ trợ bảo tồn đa dạng sinh học. Ngoài vệ tinh của Planet Labs, Microsoft cũng sử dụng vệ tinh riêng bay ở quỹ đạo Trái Đất thấp (LEO) gọi là Sparrow.
+
+Trận động đất 7,7 độ xảy ra ngày 28/3 ở Myanmar, sau đó vài phút xuất hiện dư chấn 6,7 độ, phá hủy nhiều tòa nhà, làm sập cầu và hư hại đường sá ở nước này. Cơ quan truyền thông chính quyền quân sự Myanmar ngày 31/3 cập nhật số người thiệt mạng trong thảm họa là 2.056, khoảng 3.900 người bị thương và gần 270 trường hợp mất tích.
+
+Tổ chức Y tế Thế giới (WHO) cho biết trận động đất ở Myanmar là tình trạng khẩn cấp mức cao nhất, đồng thời huy động 8 triệu USD để hỗ trợ và ngăn ngừa dịch bệnh bùng phát trong 30 ngày tới. Liên đoàn Chữ thập Đỏ và Trăng lưỡi liềm Đỏ quốc tế cũng phát động lời kêu gọi quyên góp hơn 100 triệu USD để hỗ trợ các nạn nhân vụ động đất.
+
+Bảo Lâm (theo AP, Fortune, Science)
+

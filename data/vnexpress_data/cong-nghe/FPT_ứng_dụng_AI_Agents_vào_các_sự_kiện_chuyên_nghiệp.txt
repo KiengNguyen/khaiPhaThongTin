@@ -1,0 +1,30 @@
+Trợ lý ảo AI Agents được FPT phát triển dành cho hệ thống các sự kiện chuyên nghiệp, tích hợp các công nghệ AI tiên tiến. Doanh nghiệp này mô tả, công cụ không đơn thuần là chatbot theo kịch bản cố định, mà tích hợp AI tạo sinh (Generative AI), mô hình ngôn ngữ lớn (LLM), có khả năng tạo ra những cuộc hội thoại tự nhiên, nắm bắt tình huống và phản ứng linh hoạt như con người.
+
+Ngoài ra, AI Agents còn trang bị công nghệ thị giác máy tính (Computer Vision) để nhận diện mã QR, hỗ trợ các quy trình liên quan đến hình ảnh. Đồng thời, trợ lý ảo này có công nghệ phân tích cảm xúc (Sentiment Analysis), giúp AI nhận diện tâm trạng người dùng để đưa ra phản hồi phù hợp.
+
+"Thậm chí, khi cảm nhận được sự khó chịu từ người dùng, hệ thống sẽ tự động chuyển tiếp cho tư vấn viên để đảm bảo cuộc trò chuyện vẫn diễn ra hiệu quả", đại diện FPT nói, thêm rằng trong tương lai, công cụ này có thể trở thành "đồng nghiệp AI", có thể tương tác giữa doanh nghiệp và khách hàng.
+
+Người dùng trải nghiệm công cụ AI Agents trên hệ thống giải chạy VnExpress Marathon. Ảnh: FPT
+
+Dẫn chứng tích hợp công cụ AI Agents vào hệ thống giải chạy VnExpress Marathon, FPT cho biết, hệ thống có thể xử lý đồng thời hàng trăm truy vấn cùng lúc, giúp tra cứu các thông tin như: trạng thái đăng ký, mã QR, chọn cự ly, thanh toán, nhận thông báo, chứng nhận hoàn thành chặng đua... Quy trình của người tham gia giải chạy được tự động hóa, giảm thời gian đáng kể so với trước khi áp dụng, hứa hẹn mang đến trải nghiệm mới cho người dùng, đặc biệt tại các giải thi đấu thể thao.
+
+"Trong thế giới công nghệ không ngừng dịch chuyển, việc ứng dụng AI vào từng trải nghiệm của người dùng không còn là điều xa vời, mà đang trở thành tiêu chuẩn mới", đại diện FPT nói. "Với sự đồng hành của tập đoàn công nghệ FPT, VnExpress Marathon sẽ tiếp tục duy trì vị thế dẫn đầu trong các giải chạy chuyên nghiệp, đồng thời mang đến mô hình sự kiện thể thao thông minh, hiệu quả".
+
+Tiềm năng ứng dụng AI Agents trong tổ chức sự kiện
+
+Việc duy trì tính cá nhân hóa, trải nghiệm nhất quán cho hàng nghìn, thậm chí hàng triệu người ở các sự kiện quy mô lớn là bài toán được FPT đặt ra khi phát triển FPT AI Agents. Trợ lý trí tuệ nhân tạo này được thiết kế nhằm tối ưu hóa quy trình vận hành, từ khâu chuẩn bị đến hậu kỳ, đồng thời nâng hiệu quả quản trị, chất lượng dịch vụ theo hướng toàn diện.
+
+Năm 2024 đánh dấu bước ngoặt lớn khi FPT công bố khoản đầu tư 200 triệu USD để xây dựng FPT AI Factory – Nhà máy AI và trở thành đối tác chiến lược của NVIDIA. Trong hệ sinh thái đó, FPT AI Agents được định vị là nền tảng cốt lõi, đóng vai trò như một "nhân sự AI" linh hoạt và mạnh mẽ cho các doanh nghiệp. "Với khả năng Việt hóa toàn diện, tích hợp sâu Generative AI, mô hình ngôn ngữ lớn (LLM), Computer Vision và Sentiment Analysis, FPT AI Agents không chỉ là trợ lý ảo, mà còn là kiến trúc sư vận hành thông minh cho toàn bộ chuỗi công việc trong tổ chức sự kiện", đại diện FPT nói.
+
+Ngoài vai trò trả lời câu hỏi khách hàng, FPT AI Agents được ứng dụng vào các khâu vận hành nội bộ như điều phối nhân sự, xử lý hành chính, đào tạo nội bộ và quản trị dữ liệu. Tích hợp FPT AI Mentor, hệ thống này có thể tự động cá nhân hóa lộ trình học tập cho từng nhân sự, đảm bảo các thành viên trong đội ngũ được trang bị kiến thức phù hợp trước sự kiện. Trong vận hành thực tế, AI Agents có thể giúp tổ chức và phân công nhân lực, nhắc lịch, tổng hợp báo cáo, và hỗ trợ xử lý văn bản qua công nghệ AI Read tự động.
+
+Ở mảng truyền thông và bán hàng, AI Agents hỗ trợ marketing, từ tiếp cận khách hàng mục tiêu, tư vấn, bán vé, thanh toán trực tuyến cho đến chăm sóc hậu mãi. Theo FPT, khi kết nối với hệ thống CRM, AI Agents có thể thực hiện bán chéo, bán thêm và thậm chí gợi ý các sự kiện phù hợp cho từng cá nhân dựa trên hành vi, lịch sử tương tác. "Một số doanh nghiệp tổ chức sự kiện ghi nhận tăng 25% doanh thu chỉ sau ba tháng triển khai AI Agents trong chuỗi chiến dịch bán vé và marketing tự động", đại diện FPT nói.
+
+Vào ngày diễn ra sự kiện, AI Agents tiếp tục đóng vai trò như một "điều phối viên ảo", hỗ trợ check-in bằng mã QR, hướng dẫn phân luồng khách mời, phản hồi các thắc mắc hoặc sự cố xảy ra tại chỗ. Bên cạnh đó, AI còn thu thập phản hồi người tham dự theo thời gian thực, giúp ban tổ chức điều chỉnh chương trình.
+
+Sau sự kiện, AI Agents hỗ trợ doanh nghiệp gửi chứng nhận tham gia, ảnh cá nhân đã lọc sẵn qua nhận diện khuôn mặt, đồng thời phân tích dữ liệu người dùng để đưa ra báo cáo đánh giá chất lượng chương trình theo từng phân khúc khách hàng. Hệ thống này tiếp tục giữ tương tác bằng cách cá nhân hóa nội dung, gợi ý các sự kiện phù hợp, tạo chuỗi trải nghiệm khép kín.
+
+Theo FPT, việc ứng dụng AI Agents có thể mang đến hiệu quả trong việc tiết kiệm chi phí, tối ưu nhân lực, nâng cao sự hài lòng của người tham dự, đồng thời đặt nền móng cho chiến lược vận hành dài hạn. "Khi tích hợp sâu với các hệ thống công nghệ như ERP, CRM, AI Agents không chỉ phục vụ ngành sự kiện, mà còn có khả năng mở rộng ra các lĩnh vực như giáo dục, y tế, tài chính hay sản xuất. Với định hướng đẩy mạnh hợp tác quốc tế, đầu tư vào R&D và cam kết bảo mật dữ liệu người dùng, FPT AI Agents đang dần khẳng định vị thế là một nền tảng AI toàn diện – dẫn dắt doanh nghiệp Việt tiến xa hơn trên bản đồ công nghệ toàn cầu", đại diện FPT nói.
+
+Tuấn Vũ
+

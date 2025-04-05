@@ -1,0 +1,28 @@
+Theo hàng loạt báo cáo từ Robot Report, SCMP và Wall Street Journal, việc chạy đua sản xuất robot hình người là xu hướng công nghệ chính trong năm 2025, với hai quốc gia dẫn đầu là Mỹ và Trung Quốc. Tuy nhiên, Trung Quốc đang có lợi thế lớn hơn.
+
+Một robot hình người của Figure AI. Ảnh: Figure AI
+
+Cuối tuần trước, công ty Figure AI của Mỹ cho biết sẽ xây dựng nhà máy sản xuất robot hình người BotQ công suất 12.000 robot mỗi năm, theo Interesting Engineering. Figure đang thuê các chuyên gia tối ưu hóa quy trình để sản xuất hiệu quả. Công ty cũng phát triển phần mềm trí tuệ nhân tạo Helix nhằm kiểm soát robot dùng trong dây chuyền sản xuất. Mục tiêu là sử dụng robot để chế tạo robot, kết hợp sự giám sát của con người.
+
+Một đại diện khác là Tesla cũng đang lên kế hoạch sản xuất robot Optimus. Theo Teslarati, trong cuộc họp với nhân viên về chiến lược 2025, Elon Musk đặt mục tiêu tạo ra "đội quân" 5.000 robot Optimus trong năm, thậm chí 10.000-12.000 nếu có đủ linh kiện, và tăng lên 50.000 vào năm 2026. Tỷ phú Mỹ cũng ví con số này với "quy mô của một quân đoàn La Mã".
+
+Trong khi đó, nhiều công ty Trung Quốc đã bắt đầu sản xuất robot hình người để sử dụng ngoài đời thực. Unitree Robotics bán ra hai mẫu H1 và G1 trên JD.com, trong đó G1 có giá 99.000 nhân dân tệ (348 triệu đồng) và H1 là 650.000 nhân dân tệ (2,3 tỷ đồng). Trước đó, các mẫu này cũng gây tiếng vang khi có thể thực hiện thành công cú lộn ngược đứng, múa võ, biểu diễn tại sự kiện chào năm mới ở Trung Quốc...
+
+Dobot Robotics cũng bắt đầu nhận đơn đặt hàng cho robot hình người Atom với giá 199.000 nhân dân tệ (700 triệu đồng), dự kiến sản xuất hàng loạt từ giữa năm 2025.
+
+Ngày 25/3, Agibot tuyên bố mở nhà máy mới ở Phố Đông, Thượng Hải để tăng sản lượng robot hình người lên 5.000, sánh ngang kế hoạch của Tesla. Sản phẩm của công ty hướng tới việc ứng dụng trong môi trường công nghiệp, thay thế con người ở những công việc chuyên môn. Agibot hy vọng có thể giao 3.000-5.000 robot cho khách hàng năm nay, tăng từ mức dưới 1.000 robot năm ngoái.
+
+Mỹ hay Trung Quốc chiếm ưu thế?
+
+Theo công ty nghiên cứu SemiAnalysis (Mỹ), dựa trên tình hình hiện tại, Trung Quốc là nước dẫn đầu "không thể tranh cãi" trong cuộc đua sản xuất robot hình người. Nước này giữ lợi thế quan trọng về mặt chi phí và hiệu quả chuỗi cung ứng, do đó việc sản xuất thuận lợi hơn. Chẳng hạn, một cánh tay robot tạo ra ở Mỹ đắt hơn 2,2 lần so với ở Trung Quốc. Một bộ pin ở Trung Quốc có giá 127 USD nhưng tại Bắc Mỹ và châu Âu cao hơn lần lượt 24% và 33%.
+
+Sau nhiều năm đầu tư vào ngành công nghiệp pin, năng lượng mặt trời và xe điện (EV), Trung Quốc giữ vị trí thống lĩnh về thành phần và vật liệu chính cho robot, như nam châm dùng đất hiếm và pin. Kết hợp chuỗi cung ứng trong nước mạnh mẽ, khả năng vận chuyển và thời gian rút ngắn, chi phí sản xuất robot nhìn chung thấp hơn.
+
+Tuy nhiên, Kyle Chan, nghiên cứu sinh tiến sĩ tại Đại học Princeton (Mỹ), cho rằng việc Trung Quốc sản xuất robot hiện mang tính "tượng trưng" hơn là ứng dụng thực tế. "Tôi bối rối khi Trung Quốc thúc đẩy sản xuất hàng loạt", ông viết trên blog. "Việc đột nhiên tung hàng nghìn sản phẩm khi công nghệ thực sự chưa có không hợp lý. Chúng chưa thể ứng dụng trong dây chuyền lắp ráp của nhà máy, chứ chưa nói đến trong nhà hàng. Có vẻ lãng phí và sai lầm".
+
+Giới chuyên gia cũng đánh giá Mỹ vượt trội về công nghệ AI - bộ não của robot. Trong khi đó, các công ty Trung Quốc mạnh về phần cứng cho "thân" robot với độ linh hoạt ngày càng cao. Thực tế, các công ty Trung Quốc cũng có những mô hình AI ấn tượng cho robot, như AgiBot với Genie Operator-1 (GO-1) giúp tăng cường khả năng xử lý dữ liệu hình ảnh và video để cải thiện hiệu suất làm nhiệm vụ và khả năng diễn giải hành động của con người.
+
+"Với những gì đang có, cuộc đua sản xuất robot hình người giữa Mỹ và Trung Quốc đang nóng hơn bao giờ hết", DigiTimes bình luận. "Trong năm nay, chúng ta có thể sẽ chứng kiến nhiều công ty đưa sản phẩm ra thị trường hơn dù ban đầu nó có thể chỉ mang ý nghĩa đo sự đón nhận của công chúng với công nghệ này".
+
+Bảo Lâm tổng hợp
+

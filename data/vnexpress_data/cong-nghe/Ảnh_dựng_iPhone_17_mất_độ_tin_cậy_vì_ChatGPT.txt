@@ -1,0 +1,16 @@
+Lance Ulanoff, phóng viên của TechRadar, bày tỏ kinh ngạc về khả năng tạo ảnh tích hợp trong ChatGPT-4o. Ông cho biết công việc của mình là phân tích độ chính xác của ảnh dựng, mô hình và thông tin rò rỉ về sản phẩm Apple, đặc biệt là những tin đồn xoay quanh iPhone 17 Air có thể trình làng vào tháng 9.
+
+"Tôi thử nghiệm với một ảnh cũ về iPhone SE, yêu cầu ChatGPT tạo ra một mẫu iPhone 17 Air chân thực, màu sáng. Kết quả khá ấn tượng: bố cục ảnh gốc được giữ lại, bàn tay tôi vẫn hiện diện (dù có vẻ thiếu một ngón), phần hoàn thiện của máy được làm mới và thậm chí có thêm cụm camera lồi", Ulanoff nói.
+
+Ảnh thật của iPhone SE (trái) và ảnh dựng bằng ChatGPT 4o - Ảnh: TechRadar
+
+Ông sau đó tiếp tục yêu cầu ChatGPT tạo ảnh cạnh bên để thể hiện độ mỏng. "Kết quả mang dáng dấp một mẫu ảnh quảng cáo, bắt mắt nhưng chưa đủ mỏng. Khi tôi yêu cầu làm mỏng hơn, ChatGPT lập tức điều chỉnh phù hợp".
+
+Ulanoff cho biết các bản dựng ban đầu không thực sự như ý, do ông sử dụng thiết kế iPhone SE thay vì thông tin liên quan đến iPhone 17 Air. Khi thử nghiệm tương tự và dùng iPhone 16 Pro làm mẫu, kết quả "rất tích cực". Cuối cùng, ông yêu cầu ChatGPT tạo ảnh màn hình iPhone 17 Air với Dynamic Island, giao diện sáng rõ, đầy đủ ứng dụng và widget. Ông nhận về hình ảnh sắc nét, tên ứng dụng hiển thị chuẩn, điều mà nhiều công cụ AI khác còn chật vật.
+
+Tuy nhiên, các ảnh đều không có nhãn dán (watermark) AI, chỉ tên tập tin mới tiết lộ nguồn gốc từ ChatGPT. Điều này gây lo ngại khi chất lượng ảnh quá thật, mở ra viễn cảnh Internet sắp tràn ngập ảnh iPhone và các điện thoại Android do AI dựng, khó phân biệt ảnh thật hay chỉ là sản phẩm từ một cú nhấp chuột của biên tập viên công nghệ.
+
+iPhone 17 Air hiện là smartphone có nhiều tin đồn nhất trong giới công nghệ. Đây được cho là mẫu điện thoại siêu mỏng, kết hợp giữa iPhone 16 Plus, 16e và SE, là điểm nhấn trong loạt iPhone 17 ra mắt tháng 9. Sản phẩm vẫn chưa được Apple xác nhận, đa phần là ảnh dựng từ các tin đồn.
+
+Duy Lộc
+

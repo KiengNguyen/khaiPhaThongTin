@@ -1,0 +1,46 @@
+Thông số chính về camera thoạt nhìn không có sự khác biệt nhưng camera góc siêu rộng trên iPhone 16 có độ mở lớn hơn, giúp chụp thiếu sáng tốt hơn so với iPhone 15. Ngoài ra, Apple cũng bổ sung tính năng tự động lấy nét theo điểm chạm khi chụp cận cảnh (macro).
+
+Tận dụng camera góc siêu rộng
+
+iPhone 16 không có ống kính tele zoom quang 5x như phiên bản Pro nhưng người dùng vẫn có thể tận dụng camera siêu rộng để có các góc máy sáng tạo. Ngoài camera chính 48 megapixel, model này có ống kính Ultra Wide góc 120 độ, f/2.2, độ phân giải cảm biến 12 megapixel.
+
+Chụp chân dung với camera góc siêu rộng. Ảnh: Tuấn Hưng
+
+Với chụp ảnh chân dung, góc siêu rộng có thể phát huy tác dụng khi đặt ở góc thấp cho các tư thế người mẫu đứng hoặc ngồi tạo cảm giác chân dài, ảnh có chiều sâu "hút" về phía khuôn mặt. Với khung hình dạng này, nên để phần thân, mặt ở trung tâm ảnh để tránh bị méo hình, phần chân có thể đưa ra hai góc.
+
+Nếu không muốn chụp toàn bộ thân người, có thể chụp nửa người với góc máy tương tự nhưng tiền cảnh sẽ là các vật thể khác nhằm tạo cảm giác về độ sâu ảnh tốt hơn. Khi đó, khuôn mặt mẫu vẫn nên để ở chính giữa để tránh bị méo hình.
+
+Ngoài chân dung, góc siêu rộng còn phát huy khi chụp cảnh vật cho góc nhìn toàn cảnh hơn. Với các ảnh chụp công trình xây dựng, có thể hất máy lên cao, tạo cảm giác tòa nhà, tháp cao hơn.
+
+Sử dụng chế độ zoom 2x
+
+Sử dụng chế độ zoom 2x, điều chỉnh độ mở cho phù hợp với bức hình chân dung.
+
+So với các thế hệ từ iPhone 14 trở vè trước, iPhone 15 và iPhone 16 đã có cảm biến độ phân giải lớn Fusion 48 megapixel. Ngoài tăng độ chi tiết cho góc máy tiêu chuẩn, trang bị này còn giúp iPhone dòng thường có thêm chế độ zoom 2x số. Khi đó, máy có thể chụp cận cảnh hơn, giả lập góc máy như với zoom quang trên dòng Pro. Người dùng có thể tận dụng chế độ zoom 2x khi chụp chân dung, kết hợp hiệu ứng xóa phông cho hiệu quả tốt nhất.
+
+Chụp ảnh macro
+
+Một trong những mẹo chụp ảnh bằng iPhone với người mới tốt nhất luôn là tận dụng chế độ macro với các đối tượng nhỏ, như các vật thể trong thiên nhiên (hoa, lá, côn trùng) hay chi tiết trang sức, đồ vật.
+
+Chế độ chụp macro sẽ tự động bật khi camera iPhone đặt ở gần chủ thể, miễn là người dùng không tắt chúng (biểu tượng hình bông hoa ở góc dưới bên trái) hoặc không sử dụng chế độ zoom 0,5x. Khả năng lấy nét tự động khi chụp cận cảnh trên iPhone 16 mới sẽ giúp người dùng chủ động chọn các điểm nét tren màn hình, phát huy khả năng sáng tạo.
+
+Hậu kỳ bằng Photographic Style
+
+Chụp, chỉnh sửa ảnh bằng Photographic Style có sự khác biệt với dùng bộ lọc màu trên các ứng dụng chỉnh ảnh thông thường. Ảnh: Tuấn Hưng
+
+Với iPhone 16 series, người dùng không nên bỏ qua tính năng điều chỉnh tông màu qua chế độ Phong cách nhiếp ảnh (Photographic Style) thế hệ mới. Để bật chế độ này, cần vào bật chế độ Hiệu suất cao trong mục Cài đặt/Định dạng. Các chế độ Phong cách có thể chỉnh trước khi chụp (xem qua màn hình trực tiếp) hoặc trên ảnh trong quá trình hậu kỳ.
+
+Có thể điều chỉnh Photographic Style trên màn hình cảm ứng ở giao diện chụp hoặc thông qua nút Camera Control của máy. Kéo ngón tay ở điểm điều chỉnh qua trái, phải hoặc lên, xuống để chỉnh đồng thời tông màu, màu và mức cường độ. So với việc sử dụng các bộ lọc, Photographic Style thiên về chỉnh màu, sáng tối, tương phản sâu hơn và có áp dụng theo ánh sáng thực tế nên cho hiệu quả tốt hơn.
+
+Xóa vật thể với Apple Intelligence
+
+Dùng công cụ Clean Up để xóa vật thể thừa trong ảnh không cần kết nối mạng. Ảnh: Tuấn Hưng
+
+Apple Intelligence chưa hỗ trợ tiếng Việt nhưng ngay từ bây giờ, một số tính năng cơ bản đã có thể sử dụng. Ở chế độ chỉnh sửa ảnh, người dùng có thể chọn biểu tượng cục tẩy (Clean Up), chọn vùng cần xóa. Hệ thống sẽ phân tích chọn vật thể cần xóa theo yêu cầu và mất vài giây để thực hiện. Không giống nhiều điện thoại Android khác, tính năng này của iPhone không cần đến kết nối mạng và tốc độ xử lý khá nhanh.
+
+Sử dụng Camera Control
+
+Nút chụp ảnh chuyên dụng trên iPhone 16 series không dễ để làm quen khiến nhiều người bỏ qua trang bị này khi sử dụng. Tuy nhiên, trong một số trường hợp, Camera Control có thể phát huy tác dụng như khi tự chụp chân dung cần điều chỉnh chế độ, cài đặt.
+
+Tuấn Hưng
+

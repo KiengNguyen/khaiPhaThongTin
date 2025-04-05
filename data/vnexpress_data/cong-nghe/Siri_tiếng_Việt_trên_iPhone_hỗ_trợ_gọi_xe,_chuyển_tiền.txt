@@ -1,0 +1,20 @@
+Sau hơn một tháng dùng thử, bản chính thức iOS 18.4 bắt đầu cho tải về trên các mẫu iPhone được hỗ trợ, từ iPhone SE thế hệ 2, iPhone 11 trở lên. Ngoài ra, Siri tiếng việt cũng có trên iPadOS 18.4, macOS 15.4 từ hôm nay.
+
+Người dùng có thể kiểm tra bản cập nhật bằng cách truy cập vào mục Cài đặt -> Cài đặt chung -> Cập nhật phần mềm. Bản nâng cấp với iPhone 16 series có dung lượng khoảng hơn 7 GB.
+
+Gọi xe, chuyển tiền bằng Siri tiếng Việt. Video: Tuấn Hưng
+
+Ngoài hỗ trợ tương tác bằng tiếng Việt như với bản beta, iOS 18.4 còn cho phép người dùng sử dụng Siri với một số ứng dụng bản địa, gồm Be và Momo.
+
+Trong thử nghiệm với ứng dụng gọi xe Be, Siri tiếng Việt có thể hỗ trợ ra lệnh đặt xe bằng giọng nói. Điểm đến là một trong các địa chỉ người dùng lưu từ trước trong danh bạ của Be. Với Momo, người dùng có thể đọc lệnh chuyển tiền đến tài khoản bạn bè có sẵn trong danh bạ và số tiền cụ thể.
+
+Tuy nhiên, câu lệnh sử dụng với hai phần mềm trên cần đọc đúng ngữ pháp thay vì linh hoạt như văn nói. Điều này khiến việc làm quen với các lệnh thoại cần nhiều thời gian hơn. Apple nhiều khả năng sẽ tăng số lượng ứng dụng hỗ trợ sâu cũng như hoàn thiện về độ linh hoạt thời gian tới.
+
+Trải nghiệm trở lý ảo Siri tiếng Việt. Video: Tuấn Hưng
+
+Siri hỗ trợ tiếng Việt sau 14 năm được giới thiệu trên toàn cầu. Ngoài điện thoại, trợ lý ảo còn đem đến trải nghiệm tương tác với các thiết bị nhà thông minh HomeKit hay sử dụng rảnh tay trên xe hơi. Trong khi đó, các tính năng liên quan đến Apple Intelligence vẫn chưa có tiếng Việt. Khi đổi sang tiếng Việt trong phần cài đặt, Siri không thể hoạt động với Apple Intelligence. Apple cho biết sẽ sớm bổ sung ngôn ngữ Việt trong năm nay cùng tiếng Trung, tiếng Anh (Ấn Độ), tiếng Anh (Singapore), Pháp, Đức, Italy, Nhật, Hàn, Bồ Đào Nha, Tây Ban Nha.
+
+Khi lựa chọn tiếng Việt với bốn giọng nói khác nhau, trợ lý ảo Siri vẫn được "đánh thức" bằng câu lệnh quen thuộc "Hey, Siri", sau đó nói 5 câu ví dụ để máy nhận diện cách phát âm, chất giọng. Người dùng có thể ra lệnh gọi điện, gửi tin nhắn, tra cứu thông tin thời tiết, lịch trình bằng tiếng Việt. Điều này có ý nghĩa khi người dùng đang lái xe, có thể tương tác với điện thoại không cần chạm vào màn hình.
+
+Tuấn Hưng
+

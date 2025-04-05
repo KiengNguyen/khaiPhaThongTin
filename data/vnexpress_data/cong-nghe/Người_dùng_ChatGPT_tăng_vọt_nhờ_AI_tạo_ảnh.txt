@@ -1,0 +1,20 @@
+"Có lúc chúng tôi thêm một triệu người dùng mỗi giờ", Sam Altman, CEO OpenAI, viết trên X ngày 1/4. Ông nhắc lại việc ChatGPT từng cần 5 ngày để có một triệu người dùng đầu tiên khi ra mắt hơn hai năm trước.
+
+OpenAI không đề cập con số chi tiết, nhưng công ty chuyên phân tích nền tảng trực tuyến SensorTower cho biết số lượng người dùng hoạt động (active user) và lượt tải ứng dụng ChatGPT đang đạt mức cao nhất, tăng lần lượt 11% và 5% so với tuần trước đó. Sự đột biến này diễn ra sau khi OpenAI tung ra tính năng Images in ChatGPT, sử dụng sức mạnh của mô hình GPT-4o. Bên cạnh các cải tiến, công cụ hỗ trợ tạo ảnh theo phong cách Ghibli gây sốt trên mạng xã hội.
+
+Theo Reuters, nhu cầu tăng cao khiến máy chủ OpenAI quá tải, thậm chí có lúc ngừng hoạt động ở quy mô nhỏ do lượng truy vấn lớn. "Các bản phát hành mới của OpenAI có thể bị trì hoãn, đôi khi dịch vụ chậm vì chúng tôi phải giải quyết những thách thức về năng lực xử lý", Altman cho biết ngày 1/4.
+
+ChatGPT tạo ảnh phong cách Ghibli được người dùng đón nhận, nhưng cũng gây lo ngại về vấn đề bản quyền khi việc tái tạo phong cách trở nên dễ dàng. Luật sư Evan Brown của công ty Neal & McDevitt nhận định trên Reuters: "Luật bản quyền nhìn chung chỉ bảo vệ các biểu đạt cụ thể, chứ không phải các phong cách nghệ thuật".
+
+Hayao Miyazaki, "cha đẻ" của Studio Ghibli, chỉ trích ChatGPT: "Tôi thấy ghê tởm. Tôi không bao giờ muốn đưa công nghệ này vào công việc của mình".
+
+Phát ngôn viên OpenAI nói với TechCrunch họ không sao chép "phong cách của các nghệ sĩ còn sống", nhưng công ty có thể được phép học hỏi "phong cách của các studio" vốn có quy định rộng mở hơn.
+
+Nhà báo Kevin Roose của NYTimes sử dụng ChatGPT để ghép nội thất trong các ảnh khác nhau thành căn phòng được sắp xếp ngăn nắp.
+
+Bên cạnh khả năng tạo ảnh phong cách Ghibli, Image in ChatGPT cũng nhận ý kiến trái chiều về một số tính năng khác. Chẳng hạn, theo TechCrunch, AI này có thể tạo ảnh biên lai giả "giống như thật", có thể bị sử dụng cho lừa đảo hoặc gian lận. Nó cũng có thể ghép nội dung ở nhiều ảnh khác nhau để tạo thành ảnh quảng cáo, nội thất...
+
+Tuy nhiên, Mashable đánh giá cao tính năng này vì không cần đến các công cụ chỉnh sửa ảnh phức tạp như trước. "Thật tuyệt khi có thể chụp ảnh màn hình một loạt đồ nội thất, ra lệnh AI đặt chúng vào một căn phòng và nhận về thiết kế chỉ trong 10 giây", nhà báo công nghệ Kevin Roose của New York Times bình luận trên X.
+
+Bảo Lâm
+

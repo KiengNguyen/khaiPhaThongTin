@@ -1,0 +1,34 @@
+"Mình mê phong cách Ghibli đã lâu nhưng không có năng khiếu học vẽ. Mình đã tìm nhiều ứng dụng biến ảnh thật thành ảnh Ghibli nhưng không app nào hài lòng cho đến hôm qua. Thật tuyệt", tài khoản Facebook Hoàng Yến chia sẻ kèm ảnh của cô với phong cách hoạt hình Nhật Bản.
+
+"Không thể hoãn cái sự 'cute' này được", tài khoản Ngô Hồng Nhung đăng ảnh và nhận xét.
+
+Một người dùng sử dụng các ảnh meme nổi tiếng để tạo lại theo phong cách Ghibli. Ảnh: Bảo Lâm
+
+Ghibli, hay Studio Ghibli, là hãng phim hoạt hình Nhật Bản có trụ sở tại Koganei, Tokyo. Công ty thành lập năm 1985, nổi tiếng với việc sản xuất các bộ phim anime có sự tỉ mỉ trong từng khung hình, nội dung phim có chiều sâu, cốt truyện hấp dẫn. Tám trong số những bộ phim Ghibli có tên trong top 15 phim anime doanh thu cao nhất mọi thời. Biểu tượng của công ty là nhân vật Totoro trong phim Tonari no Totoro (Hàng xóm của tôi là Totoro).
+
+Trong khi đó, công cụ vẽ ảnh Ghibli đang gây sốt là tính năng mới trong trình tạo ảnh Images in ChatGPT được OpenAI tích hợp vào ChatGPT ngày 26/3, sử dụng sức mạnh của mô hình GPT-4o. Bên cạnh việc tạo ảnh "như thật", hỗ trợ chỉnh sửa ảnh hay phục hồi ảnh cũ, công cụ còn cho phép chuyển ảnh hoạt hình với nhiều phong cách khác nhau.
+
+Để sử dụng, người dùng ChatGPT cần tải ảnh của mình lên, ra lệnh cho chatbot chuyển sang phong cách Studio Ghibli. Tuy nhiên, người dùng bản miễn phí có thể gặp khó khăn khi tạo, trong khi với các gói thuê bao Plus, Pro, Team, quá trình tạo dễ dàng hơn.
+
+Tính năng mới lập tức thu hút người dùng cả ở Việt Nam và trên thế giới. Một số thậm chí tổng hợp các bức ảnh hoạt hình thành một câu chuyện, tương tự truyện tranh. Theo ghi nhận của TechCrunch trong 24 giờ qua, hàng nghìn ảnh được chia sẻ lên mạng xã hội với hàng trăm nghìn lượt xem. CEO OpenAI Sam Altman cũng thay đổi ảnh đại diện X của ông theo phong cách Ghibli.
+
+"So với những công cụ AI khác, tính năng Ghibli mới của ChatGPT ổn nhất vì cho ra kết quả đúng ý, chất lượng ảnh rất cao, có thể để đăng lên mạng xã hội ngay thay vì phải chỉnh thêm hoặc bị giới hạn độ phân giải", người dùng Facebook Thế Anh bình luận.
+
+Tuy nhiên, công cụ của OpenAI cũng gây lo ngại, khi việc tái tạo phong cách của tác phẩm có bản quyền trở nên dễ dàng, vốn là vấn đề khởi nguồn cho hàng loạt vụ kiện nhằm vào các công ty AI thời gian qua. Giới chuyên gia đặt câu hỏi: Nếu các công ty này đang đào tạo AI bằng tác phẩm có bản quyền, họ có vi phạm luật bản quyền không?
+
+Evan Brown, luật sư chuyên về sở hữu trí tuệ tại công ty luật Neal & McDevitt, cho rằng các sản phẩm như của OpenAI hoạt động trong "vùng xám pháp lý". Theo ông, "phong cách" là yếu tố không được bảo vệ rõ ràng bởi luật bản quyền, tức OpenAI có thể không vi phạm nếu chỉ tạo ra hình ảnh trông giống như phim của Studio Ghibli.
+
+Tuy nhiên, ông cũng chỉ ra ChatGPT đang mô phỏng phong cách Ghibli chân thực nhất, nên có thể mô hình GPT-4o được đào tạo trên hàng triệu khung hình từ các bộ phim của công ty Nhật Bản. Điều này liên quan đến thỏa thuận bản quyền giữa hai bên.
+
+Phát ngôn viên OpenAI nói với TechCrunch họ không sao chép "phong cách của các nghệ sĩ còn sống", nhưng công ty vẫn có thể được phép sao chép "phong cách của các studio" vốn có quy định rộng mở hơn.
+
+Sau phát biểu trên, OpenAI cũng ngừng cung cấp việc tạo ảnh ChatGPT cho người dùng miễn phí với lý do "nhu cầu cao".
+
+Một số chuyên gia khác lại lo ngại việc người dùng sử dụng ảnh của mình để tạo ảnh AI cũng đồng nghĩa "tự tay" dâng dữ liệu cá nhân cho OpenAI đào tạo các mô hình của họ.
+
+Trước đó, theo NYTimes, hàng loạt nhà xuất bản đang kiện OpenAI, cáo buộc công ty của Sam Altman dùng dữ liệu có bản quyền đào tạo AI nhưng không xin phép, không ghi nguồn hoặc trả tiền để sử dụng. Meta, Midjourney và một số công ty AI khác cũng đang đối mặt với cáo buộc tương tự.
+
+Đầu tháng này, Gemini 2.0 Flash của Google cũng tạo cơn sốt khi cho phép người dùng xóa watermark của ảnh. Watermark là phần hình mờ được chèn vào ảnh, tập tin... để "đóng dấu" bản quyền, tránh bị sao chép tác phẩm trái phép hoặc tăng khả năng nhận diện. Tuy nhiên, tính năng nhanh chóng nhận phản ứng trái chiều. Theo Luật Bản quyền Mỹ, xóa watermark mà không có sự đồng ý của chủ sở hữu bị coi là bất hợp pháp. Google khi đó không đưa ra bình luận.
+
+Bảo Lâm
+

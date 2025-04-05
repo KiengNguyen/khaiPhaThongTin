@@ -1,0 +1,68 @@
+Một buổi tối giữa tháng 11/2023, tỷ phú đầu tư mạo hiểm Peter Thiel tổ chức tiệc sinh nhật cho bạn đời Matt Danzeisen tại nhà hàng Yess ở Los Angeles. Bữa tiệc có sự tham gia của một số người bạn thân thiết, trong đó có Sam Altman, theo nội dung cuốn sách The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future của Keach Hagey, dự kiến xuất bản tháng 5 do WSJ thu thập.
+
+Thiel và Altman vừa là bạn bè vừa là đối tác. Ông hỗ trợ quỹ đầu tư mạo hiểm đầu tiên của Altman hơn một thập kỷ trước, đồng thời cố vấn cho CEO OpenAI nhiều năm. Khi ChatGPT ra mắt và làm chấn động giới công nghệ, Thiel cảm thấy lo lắng.
+
+Sam Altman và logo OpenAI. Ảnh: TechCrunch
+
+Nhiều năm trước khi gặp Altman, Thiel đã nhận một "thần đồng bị ám ảnh bởi AI" khác tên là Eliezer Yudkowsky làm học trò, tài trợ học và thực hiện nghiên cứu về AI. Các nghiên cứu đảm bảo bất kỳ AI nào thông minh hơn con người đều sẽ thân thiện với người tạo ra nó. Nhưng sau đó, Yudkowsky xuất hiện trên tạp chí Time và nói nếu làn sóng nghiên cứu AI hiện tại không được ngăn chặn, "mọi người trên Trái Đất sẽ chết theo nghĩa đen".
+
+"Cậu có thể không biết Eliezer đã tiêm nhiễm vào một nửa số người trong công ty tin điều đó là sự thật", Thiel nói với Altman tại buổi tiệc sinh nhật. "Cậu cần phải nghiêm túc hơn với điều này".
+
+Đây không phải lần đầu Thiel cố gắng cảnh báo CEO OpenAI về việc nhiều người muốn ngăn chặn phát triển AI vì có thể "tiêu diệt nhân loại", gồm cả Elon Musk, và gọi "những người muốn giữ AI an toàn đều muốn phá hủy OpenAI".
+
+"Vâng, nó đúng với Elon, nhưng chúng tôi đã loại bỏ ông ấy rồi", Altman trả lời, ám chỉ cuộc "chia tay" giữa Musk với OpenAI năm 2018. Musk đồng sáng lập OpenAI, nhưng đã rời công ty và từng gọi nỗ lực tạo ra AI là "triệu hồi quỷ dữ".
+
+Giai đoạn cuối 2023, 800 nhân viên OpenAI háo hức vì chuẩn bị có cơ hội "mua nhà mua xe". ChatGPT thành công giúp OpenAI được định giá 86 tỷ USD và dự kiến niêm yết trên sàn chứng khoán. Còn Altman có thể khép lại năm 2023 đầy tuyệt vời: công ty thành công, gặp được nhiều nhân vật quan trọng như tổng thống và thủ tướng khắp thế giới. Vị thế của ông tại Thung lũng Silicon cũng được nâng cao.
+
+Nhưng khi Altman dự tiệc cùng Thiel, bốn trong sáu thành viên hội đồng quản trị của OpenAI tổ chức một cuộc họp bí mật: quyết định nên sa thải CEO hay không.
+
+Ngay từ đầu, cấu trúc OpenAI đã khác xa với các công ty công nghệ thông thường, được quản lý bởi một hội đồng phi lợi nhuận với nhiệm vụ không "dựa theo các cổ đông" mà là "phục vụ nhân loại". Tháng 6/2023, Altman từng nói với Bloomberg rằng ông có thể bị sa thải bất cứ lúc nào và theo ông "điều đó rất quan trọng".
+
+Thực tế, hội đồng thất vọng vì sau khi ChatGPT ra đời, Altman ngày càng tự cho mình là người ra quyết định. Trước đó, họ muốn bổ sung một chuyên gia an toàn AI, nhưng liên tục bị đình trệ do Altman và chủ tịch Greg Brockman ngăn cản.
+
+"Đã có một cuộc đấu tranh quyền lực nhỏ", Brian Chesky, CEO của Airbnb, người từng được Altman đề xuất vào hội đồng quản trị OpenAI, nói. "Những ai được Sam nhắc tên đều rất trung thành với ông ấy".
+
+Mọi thứ trở nên căng thẳng từ đầu 2023, khi ba thành viên hội đồng quản trị trong phe ủng hộ Altman từ chức liên tiếp do xung đột lợi ích. Sáu thành viên còn lại gồm Altman, Brockman, đồng sáng lập kiêm kiến trúc sư trưởng Ilya Sutskever và ba giám đốc độc lập. Đó là Adam D'Angelo, CEO của Quora; Helen Toner, Giám đốc chiến lược Trung tâm An ninh và Công nghệ mới nổi của Georgetown; Tasha McCauley, thành viên hội đồng quản trị của tổ chức EA Effective Ventures.
+
+Trong số này, Toner và McCauley nhận thấy Altman ngày càng lạm quyền. Chẳng hạn, ông thường dựa vào một hội đồng an toàn chung thành lập với Microsoft để xem xét sản phẩm trước khi phát hành. Với mô hình GPT-4 dự tính ra cuối 2022, có ba yếu tố gây tranh cãi. Altman tuyên bố cả ba đều đã được hội đồng an toàn thông qua, nhưng Toner tìm bằng chứng và phát hiện thực tế chỉ một cải tiến được chấp thuận.
+
+Cùng lúc này, Microsoft tung ra bản thử nghiệm GPT-4 trên sản phẩm của mình tại Ấn Độ mà không có sự chấp thuận của hội đồng an toàn và cũng không ai thông báo điều đó cho hội đồng quản trị OpenAI. Các thành viên thuộc nhóm độc lập nhận ra điều này, nhưng không thể làm gì. Với cuộc họp 6 tiếng sau đó, không một lần nào Altman hoặc Brockman đề cập đến sự việc.
+
+Trong bữa tiệc tối hè 2023, một thành viên hội đồng quản trị OpenAI tình cờ nghe được việc một người nói Quỹ khởi nghiệp OpenAI (thành lập năm 2021) đã tài trợ cho một số dự án không minh bạch, đồng thời lợi nhuận từ quỹ không dành cho các nhà đầu tư của OpenAI.
+
+Do đây là thông tin mới, các thành viên đã chất vấn Altman. CEO OpenAI nói vấn đề chỉ "tạm thời" và khẳng định không kiếm được bất kỳ khoản phí hoặc lợi nhuận nào từ quỹ.
+
+Tuy nhiên, vấn đề tài chính đã thách thức niềm tin của nhóm hội đồng quản trị. Cuối tháng 9/2023, Sutskever gửi email cho Toner để bàn bạc "một số vấn đề" vào ngày hôm sau - một động thái được đánh giá là bất thường vì các thành viên thực sự không nói chuyện ngoài các cuộc họp hội đồng quản trị. "Bạn nên trao đổi với Mira nhiều hơn", một tin nhắn có đoạn.
+
+Người mà Sutskever nhắc đến là Mira Murati, giữ chức giám đốc công nghệ của OpenAI từ tháng 5/2022. Khi Toner gọi, Murati mô tả Altman có "phong cách quản lý độc hại" và "gây ra vấn đề trong nhiều năm". Bên cạnh đó, sự can thiệp của Brockman khiến bà gần như không thể hoàn thành công việc của mình.
+
+Toner quay lại với Sutskever. Ông nói đã mất lòng tin vào Altman vì nhiều lý do, gồm cả việc CEO "kích động các nhân viên cấp cao chống lại nhau". Cả hai xem đây là lúc thích hợp để hạ bệ Altman.
+
+Tuy nhiên, cả hai "thận trọng trong nỗi sợ" và chỉ nói chuyện với từng thành viên hội đồng quản trị độc lập trong vài tuần tiếp theo. Đến tháng 10/2023, Toner xuất bản một bài báo, lặp lại lời chỉ trích về cách tiếp cận an toàn của OpenAI. Altman đã rất tức giận, yêu cầu Toner rời hội đồng quản trị.
+
+Thời gian này, Sutskever và Murati thu thập đủ bằng chứng, sau đó gửi cho Toner, McCauley và D'Angelo bằng chức năng email tự hủy của Gmail. Tài liệu đưa ra hàng chục ví dụ về "những lời nói dối và các hành vi độc hại" của Altman khi điều hành OpenAI. Sutskever cảnh báo nếu muốn hành động, mọi thứ phải thật nhanh chóng.
+
+Chiều 16/11/2023, ba thành viên hội đồng quản trị độc lập bắt đầu cuộc họp qua video về việc bỏ phiếu sa thải Altman. Để chắc chắn Murati sẽ làm CEO tạm thời, hội đồng cũng loại cả Brockman - người mà bà phải báo cáo công việc trực tiếp hàng ngày.
+
+"Anh đã trao đổi điều này với Satya chưa?", Murati hỏi các thành viên hội đồng quản trị, nhắc đến CEO Microsoft Satya Nadella, do Microsoft là đối tác quan trọng của OpenAI. Tuy nhiên, nhóm quyết định Murati sẽ nói với Microsoft trước khi tin tức sa thải CEO được đăng trên trang web của OpenAI.
+
+Ngay sau đó, Altman bị phế truất khỏi chức vụ CEO.
+
+Việc Altman bất ngờ bị sa thải trở thành tiêu đề gây chấn động toàn thế giới. Tuy nhiên, hội đồng quản trị im lặng về lý do đứng sau, ngoài việc nói Altman "không thẳng thắn".
+
+Một ngày sau, ban quản trị và nhóm điều hành OpenAI tổ chức một loạt cuộc họp với không khí được mô tả "ngày càng căng thẳng". Murati cũng "đổi phe", lo ngại hội đồng đang đặt OpenAI vào tình thế nguy hiểm do không chuẩn bị tốt hơn cho hậu quả sau sa thải. Bà và nhiều người khác cho hội đồng 30 phút để giải thích lý do.
+
+Hội đồng lúc này không thể nói chính Murati đã cung cấp cho họ bằng chứng sai phạm của Altman. Họ đã trông cậy Murati có thể xoa dịu nhân viên trong khi tìm CEO mới. Nhưng thay vào đó, bà dẫn đầu "cuộc nổi loạn" chống lại hội đồng quản trị.
+
+Sau đó, một thông tin lan truyền rằng toàn bộ sự việc là một "cuộc đảo chính" do Sutskever đứng sau. Kiến trúc sư trưởng của OpenAI được mô tả đã vô cùng kinh ngạc nhưng không biết phải ứng xử thế nào.
+
+Đến sáng 18/11/2023, hầu hết nhân viên OpenAI ký vào thư yêu cầu phục chức cho Altman, nếu không sẽ nghỉ việc. Trong số đó có cả Murati và Sutskever. Bốn ngày sau, Altman trở lại làm CEO và lập hội đồng quản trị mới.
+
+Sau khi bị sa thải, Altman ban đầu tỏ ra bình tĩnh. "Đó là khoảnh khắc siêu thực mà tôi nhớ mãi. Với những gì đã trải qua, nhìn lại, thật là một chuỗi sự kiện bất thường", ông nói trong podcast công nghệ The Logan Bartlett Show trên YouTube hồi tháng 5/2024.
+
+Nhưng sang ngày tiếp theo, Altman cho biết đã suy nghĩ nhiều đến mức không còn muốn ăn uống. "Thật kỳ lạ. Tôi không ngủ nhiều, không ăn nhưng năng lượng vẫn rất cao, còn trí não luôn trong trạng thái tập trung cao độ", ông chia sẻ khi đó.
+
+Sau khi trở lại vị trí điều hành, việc đầu tiên ông thực hiện là vào một quán ăn trên đường khi nhận ra mình đã không ăn tử tế trong nhiều ngày. "Như phản xạ tự nhiên, tôi gọi bốn món khai vị 'hạng nặng' và hai ly sữa lắc cho bản thân như để ăn mừng", ông nói. "Tôi cảm thấy hài lòng sau bữa ăn".
+
+Bảo Lâm (Theo WSJ, The Verge)
+

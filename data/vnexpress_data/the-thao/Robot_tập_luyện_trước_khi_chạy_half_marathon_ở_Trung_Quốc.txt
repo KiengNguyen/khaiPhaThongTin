@@ -1,0 +1,28 @@
+Startup EngineAI tại Thâm Quyến vừa chia sẻ đoạn phim robot hình người PM01 chạy thử nghiệm ngoài trời lần đầu. Trong video, robot này dừng lại nhanh chóng mà không bị vấp ngã và thậm chí có thể nhảy lộn ngược.
+
+PM01, lấy cảm hứng từ RoboCop và Iron Man, vào tháng 12/2024, có giá 13.000 USD. Theo nhà sản xuất EngineAI, thiết bị đệm dưới đế giúp PM01 chạy êm.
+
+EngineAI công bố video chạy của robot hình người PM01.
+
+PM01 là phiên bản thu nhỏ của robot hình người SE01, gây chú ý vào tháng 10/2024 khi trình diễn dáng đi giống người của SE01. Robot mới này cũng nổi bật với dáng đi, chạy tự tin. Màn chạy thử diễn ra hai tuần sau khi nhà sản xuất EngineAI khoe khả năng lộn nhào - điều chưa từng thấy trong lĩnh vực chế tạo robot hình người - của PM01.
+
+Thành phố Thâm Quyến đang dần đưa robot của EngineAI vào ứng dụng thực tiễn trong nỗ lực chuyển đổi thành đô thị do AI điều khiển. Một số video trên mạng xã hội cho thấy robot PM01 được huấn luyện thường xuyên ở nơi công cộng, hỗ trợ cảnh sát và tương tác với người dân.
+
+PM01 có khả năng quan sát tốt nhờ camera chiều sâu, với màn hình tương tác trên ngực, khung ngoài bằng hợp kim nhôm. Robot này cao 1,38 mét, thấp hơn 32 cm so với robot hình người kích thước đầy đủ của EngineAI. Chỉ nặng 40 kg, PM01 chuyển động mượt mà, với pin có thể thay thế, kéo dài khoảng 2 giờ mỗi lần sạc.
+
+PM01 chạy tập trong một công viên ở Thâm Quyến. Ảnh chụp màn hình
+
+EngineAI huấn luyện robot trên nền tảng dữ liệu Isaac Simulator của Nvidia. Robot nhận phản hồi từ mô phỏng và học cách thích nghi, giống người hơn, rút giúp tiết kiệm thời gian đưa vào sử dụng. Sau khi bản sao kỹ thuật số được cập nhật đầy đủ các thông tin huấn luyện, kiến thức được chuyển sang robot thật qua Sim2Real (Simulation to Reality).
+
+EngineAI chưa công bố tốc độ chạy của PM01, nhưng nó sẽ cạnh tranh gay gắt với nhiều đối thủ khác tại giải half marathon ở quận Đại Hưng, Bắc Kinh ngày 13/4. Nổi bật là Tiangong, robot hình người nguồn mở do Bắc Kinh chế tạo, đã được huấn luyện nhiều tháng. Robot này do Trung tâm Đổi mới Robot hình người Bắc Kinh phát triển, có tốc độ 12 km/h, gấp đôi tốc độ tối đa chưa đầy một năm trước.
+
+Video khác ghi lại cảnh robot hình người huấn luyện cho cuộc thi half marathon đầu tiên.
+
+Việc tập trung vào tốc độ là điều đặc biệt trong lĩnh vực chế tạo robot ở Trung Quốc. Nước này muốn sản xuất hàng loạt robot hình người trong năm 2025 và thống trị thị trường từ 2027. Ở phương Tây, các công ty như Tesla, Figure AI, Agility Robotics, Boston Dynamics và 1X Technologies chú trọng đến sự khéo léo và khả năng thao tác cho các nhiệm vụ công nghiệp và gia đình.
+
+Giải tại Bắc Kinh ngày 13/4 sẽ là lần đầu tiên robot chạy giải half marathon trong lịch sử. Ban tổ chức giải quy định giới hạn thời gian hoàn thành (COT) cự ly 21km cho robot là 3 giờ 30 phút. Các đội được phép thay pin hoặc chuyển robot theo hình thức tiếp sức trong suốt chặng đua. Kết quả đánh giá dựa trên thời gian hoàn thành và số lần thay robot, với mỗi lần thay bị phạt cộng thêm 10 phút vào thành tích tổng.
+
+Robot dự giải half marathon sắp tới phải có thiết kế hình người, di chuyển bằng hai chân, không dùng bánh xe. Phương pháp điều khiển có thể bằng tay, bán tự động hoặc tự động hoàn toàn. Các đội phải đảm bảo robot không gây hư hại đường đua, robot khác hoặc người xung quanh, đồng thời tuân thủ đường chạy và quy tắc kỹ thuật.
+
+Hồng Duy
+

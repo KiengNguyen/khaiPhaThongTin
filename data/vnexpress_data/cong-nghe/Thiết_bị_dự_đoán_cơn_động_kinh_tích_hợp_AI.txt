@@ -1,0 +1,31 @@
+Dự án do CDTI Innovación, cơ quan trực thuộc Bộ Khoa học, Đổi mới và Đại học Tây Ban Nha tài trợ, được thực hiện bởi Công ty Cổ phần ITR VN và Mjn-neuro, một startup công nghệ y tế đến từ Tây Ban Nha. Đây là lần đầu tiên CDTI tài trợ cho dự án hợp tác công nghệ giữa hai quốc gia.
+
+Theo đó, thiết bị sẽ có khả năng phân tích sóng não EEG theo thời gian thực, từ đó nhận diện các tín hiệu bất thường đặc trưng và đưa cảnh báo sớm từ một đến ba phút trước khi cơn động kinh xảy ra. Máy là thiết bị đeo được, siêu nhỏ gọn, tiêu thụ năng lượng thấp, thuận tiện cho người dùng sử dụng hàng ngày.
+
+Thiết bị đeo nhỏ gọn dự đoán cơn động kinh do ITR VN hợp tác Mjn-neuro phát triển. Ảnh: ITR VN
+
+Đại diện ITR VN cho biết để thực hiện được thiết bị, nhóm phát triển sản phẩm cần giải bài toán thiết kế phần cứng tiêu thụ năng lượng thấp, lập trình và triển khai AI. Tuy nhiên, đơn vị đã có nhiều kinh nghiệm trong phát triển thiết bị y tế đeo được, tuân thủ các tiêu chuẩn quốc tế, vì vậy có khả năng đảm bảo hiệu quả và khả năng ứng dụng thực tế của thiết bị.
+
+ITR VN sẽ phát triển bo mạch điện tử, phần mềm và tích hợp AI, đảm bảo các tiêu chí: khả năng xử lý dữ liệu sinh học theo thời gian thực, độ ổn định cao và mức tiêu thụ năng lượng tối ưu để sử dụng hàng ngày.
+
+Bệnh động kinh là tình trạng rối loạn từ các tín hiệu điện trong não, gây co giật tái diễn. Biểu hiện bệnh khác nhau với từng người. Một số bị động kinh chỉ nhìn ngây người trong vài giây, trong khi những người khác bị co giật.
+
+Thống kê của Tổ chức Y tế Thế giới (WHO) đến tháng 2/2024, toàn cầu có khoảng 50 triệu người mắc bệnh động kinh, chiếm tỷ lệ đáng kể trong gánh nặng bệnh tật thế giới.
+
+Theo Bệnh viện Nguyễn Tri Phương, TP HCM, bệnh động kinh có thể dẫn tới tình huống nguy hiểm cho bản thân và người khác như: bị ngã, chết đuối, tai nạn xe hơi... Do đó, việc dự đoán sớm cơn động kinh không chỉ giúp người bệnh tránh được tai nạn, chấn thương mà còn góp phần giảm bớt lo âu và nâng cao chất lượng sống.
+
+ITR VN tham gia triển lãm y tế lớn nhất thế giới Medica tại Đức. Ảnh: ITR VN
+
+Ông Lưu Minh Triết, Đồng sáng lập ITR VN, cho biết các sản phẩm đang lưu hành trên thị trường, chủ yếu tập trung phát hiện cơn động kinh sau khi đã khởi phát, dựa trên các tín hiệu như chuyển động co giật hay thay đổi nhịp tim. Tuy giúp cảnh báo người thân, những thiết bị này không thể giúp người bệnh chủ động phòng tránh tai nạn hoặc chấn thương từ sớm.
+
+"Thiết bị mới nếu được ứng dụng rộng rãi có thể giúp người bị động kinh sống an toàn và chủ động hơn mỗi ngày, giảm bớt lo lắng và nâng cao chất lượng cuộc sống", ông nói.
+
+ITR VN thành lập năm 2012, có nhiều kinh nghiệm trong việc phát triển thiết bị y tế đeo tuân thủ các tiêu chuẩn quốc tế như ISO 13485, IEC 62304, IEC 60601, đáp ứng yêu cầu của FDA (Mỹ) và MDR (Liên minh châu Âu).
+
+ITR VN cho biết sẽ tiếp tục mở rộng hợp tác với các đối tác toàn cầu, đặc biệt trong các lĩnh vực như thiết bị đeo thông minh, phần mềm y tế (SaMD), phân tích tín hiệu sinh học, và các giải pháp chăm sóc sức khỏe cá nhân. Công ty cũng cam kết đầu tư vào nghiên cứu phát triển (R&D), chuyển giao công nghệ, và đào tạo nhân lực chất lượng cao để phục vụ cho các dự án MedTech mang tầm vóc quốc tế.
+
+Văn Hà
+
+Tham khảo và tìm hiểu thêm về dự án tại đây
+Một số nền tảng do ITR VN phát triển: Dự án nhẫn cảm biến sinh học cho ứng dụng y tế (Biosensoring)
+

@@ -1,0 +1,26 @@
+Năm 2014, sự bùng nổ của Internet di động và tỷ lệ người dùng smartphone mang đến khía cạnh mới cho thanh toán số. Thời điểm đó, hình ảnh các viên văn phòng TP HCM lần đầu tiên quét mã MoMo để thanh toán ly cà phê thay vì lục tìm tiền mặt trong ví mở màn cho một cuộc "cách mạng" thanh toán không tiền mặt, thay đổi hoàn toàn thói quen tiêu dùng của người Việt. Cùng lúc, một người nội trợ ở Hà Nội, sau vài cú chạm trên Grab dễ dàng gọi xe đến tận cửa. Ở Đà Nẵng, một chủ nhà trọ lần đầu đăng tin cho thuê căn hộ trên Airbnb và đón khách quốc tế sau vài ngày.
+
+Một người dân thanh toán vé metro bằng ứng dụng. Ảnh: MoMo
+
+Sau một thập niên phát triển, người dùng MoMo giờ đây không chỉ thanh toán cốc cà phê, hóa đơn điện nước, mà còn có thể mua vé xem phim, vé tàu xe.... Grab cũng có thể trở thành một phần chuyển đổi số ngành du lịch bằng sáng kiến điểm đến số hóa dưới dạng mã QR, giúp du khách khám phá thành phố dễ dàng và thú vị hơn.
+
+Từ những giải pháp đơn lẻ, các công ty công nghệ như MoMo, Grab hay nhiều siêu ứng dụng khác "vươn mình" thành những hệ sinh thái liên ngành, nơi tài chính, giao thông, giáo dục, y tế, du lịch... tích hợp trên một nền tảng. Sự chuyển mình này thể hiện bước tiến về công nghệ, phản ánh nhu cầu thực tế của xã hội, khi người dùng kỳ vọng nhận được các trải nghiệm tích hơn trên nền tảng số, đưa chuyển đổi số len lỏi vào cuộc sống.
+
+Nhận định về sự chuyển dịch này, đại diện MoMo cho biết công nghệ và dữ liệu trở thành yếu tố quan trọng để công ty xây dựng những giải pháp cá nhân hóa, mang lại trải nghiệm toàn diện cho hơn 30 triệu người dùng.
+
+Trong mô hình "siêu ứng dụng", đơn vị tích hợp các dịch vụ thiết yếu như mua sắm, đặt vé máy bay, gọi xe, đặt phòng khách sạn, hỗ trợ bán hàng trực tuyến... đặc biệt là hệ sinh thái tài chính toàn diện như chuyển tiền, thanh toán hóa đơn, vay tiêu dùng, mua bảo hiểm, đầu tư. Nghĩa là, chỉ với một ứng dụng, người dùng có thể thanh toán cà phê mà không cần tiền mặt, đi chợ trực tuyến qua Grab, đặt phòng thuê trên nền tảng số, bán nông sản qua kênh trực tuyến và tiếp cận các dịch vụ tài chính từ xa.
+
+Nhờ đó, người dùng Việt có thể sử dụng dịch vụ số dễ dàng hơn, thu hẹp khoảng cách số giữa thành thị và nông thôn. Một nông dân ở miền núi vẫn có thể tham gia bán nông sản qua sàn thương mại điện tử, tiếp cận khoản vay chính thống.
+
+Ngoài ra, Mini App là một trong những giải pháp điển hình của MoMo, giúp xây dựng các ứng dụng trên một nền tảng duy nhất. Chỉ cần mở app, người dùng có trải nghiệm liền mạch phục vụ mọi nhu cầu, không cần cài thêm ứng dụng, không cần cập nhật thường xuyên.
+
+Đặc biệt, doanh nghiệp không phân biệt quy mô, ngành nghề có thể tích hợp ứng dụng, dịch vụ lên trên nền tảng này mà không cần xây dựng ngay từ đầu. Theo MoMo, doanh nghiệp có thể tiết kiệm hơn 75% chi phí khi sử dụng Mini App so với việc tự xây dựng và phát triển ứng dụng cùng cơ sở dữ liệu. Chiến lược dài hạn của MoMo là không ngừng mở rộng hệ sinh thái fintech, góp phần xây dựng một tương lai tài chính bền vững và toàn diện cho người Việt.
+
+Ứng dụng số hiện có đa dịch vụ từ thanh toán, giải trí, di chuyển, tiết kiệm, đầu tư... Ảnh: MoMo
+
+Theo đại diện MoMo, việc phát triển hệ sinh thái thông minh liên ngành là quá trình dài hơi yêu cầu sự đầu tư có hệ thống. Doanh nghiệp Việt không chỉ đóng vai trò tiên phong mà còn góp phần xây dựng tương lai bền vững cho nền kinh tế số. Đến nay, nền tảng có hơn 50.000 đối tác kinh doanh vừa và nhỏ, hơn 70 ngân hàng và tổ chức tài chính.
+
+Theo số liệu doanh nghiệp, cuối năm 2023, 2,5 triệu người dùng thanh toán qua MoMo cho hơn 90% dịch vụ hành chính công. Có 4.260 trường học, 148 bệnh viện trên toàn quốc chấp nhận thanh toán học phí, viện phí qua MoMo. Hệ sinh thái của doanh nghiệp đã vươn tới hơn 300.000 điểm chấp nhận thanh toán, giúp các doanh nghiệp SME dễ dàng tiếp cận công nghệ số, giảm tới 30-40% chi phí vận hành.
+
+Thái Anh
+

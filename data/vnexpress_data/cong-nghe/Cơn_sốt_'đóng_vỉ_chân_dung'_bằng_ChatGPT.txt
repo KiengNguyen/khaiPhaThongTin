@@ -1,0 +1,22 @@
+Tính năng mới nằm trong bộ công cụ tạo ảnh Images in ChatGPT được OpenAI đưa vào chatbot từ ngày 26/3, sử dụng sức mạnh của mô hình GPT-4o. Trên các mạng xã hội Facebook, X, TikTok, nhiều người đang chia sẻ hình ảnh bản thân "đóng vỉ" thành đồ chơi kèm nhiều bình luận hài hước. Một số đánh giá ý tưởng không đột phá, nhưng giúp người dùng giới thiệu thông tin bản thân theo cách mới, hoặc tạo quà tặng, đồ chơi cá nhân hóa.
+
+"Tôi thích các món đồ chơi nhỏ xinh được đóng vỉ từ lúc bé, nhưng không hình dung được sẽ thế nào khi 'ngồi' trong đó", chị Mỹ Huyền (TP HCM) nói. "Tính năng mới dễ thương, dễ lan tỏa theo cách vui vẻ".
+
+"Đây là cách mới đầy thú vị để giới thiệu bản thân. Thay vì viết, giờ mọi người có thể biết tôi thích gì, làm gì khi nhìn vào vỉ đồ chơi", tài khoản Nguyễn Tuấn (Bình Dương) viết trên Facebook.
+
+Một bức ảnh được AI tạo theo phong cách "đóng vỉ đồ chơi". Ảnh: Bảo Lâm
+
+Khác với cơn sốt tạo ảnh hoạt hình AI phong cách Ghibli chỉ sử dụng câu lệnh (prompt) đơn giản cùng ảnh đầu vào, việc tạo "vỉ đồ chơi" trên ChatGPT phức tạp hơn. Câu lệnh cần dài và chi tiết bằng tiếng Anh thay vì tiếng Việt và cũng sử dụng nhiều ảnh hơn. Ngoài ảnh chính còn cần các ảnh "phụ kiện" trong hộp, đại diện cho sở thích hoặc thông tin liên quan đến người cần tạo ảnh.
+
+Trên một số diễn đàn và mạng xã hội, nhiều prompt có sẵn được chia sẻ. Người dùng chỉ cần thay tên, ảnh theo sở thích cá nhân và yêu cầu ChatGPT thực hiện. Sau khoảng nửa phút, bức ảnh hoàn tất.
+
+Ngoài ChatGPT, tính năng "đóng vỉ" cũng có thể thực hiện trên Google Gemini 2.0 Flash, xAI Grok, Meta AI hoặc trình tạo ảnh AI tương tự với cùng câu lệnh. Dù vậy, nhiều người đánh giá công cụ của OpenAI vẫn "thật" và "mang lại cảm xúc" hơn.
+
+Theo Serena H. Huang, chuyên gia tư vấn về AI tại Mỹ, việc ChatGPT bổ sung tính năng mới như ảnh hoạt hình phong cách Ghibli hay tạo "vỉ đồ chơi" là cách để AI này ngày càng phổ biến. "Đây là chất xúc tác mạnh mẽ để đẩy nhanh quá trình tạo nội dung như tài liệu tiếp thị, quảng bá bản thân. Nhìn chung, các cơn sốt AI giúp công cụ lan tỏa hơn, có thể biến những người hoài nghi thành người dùng sau một đêm", bà Huang nói với Cnet.
+
+Tuy nhiên, chuyên gia này cho rằng người dùng nên quan tâm đến sự phức tạp về bản quyền của nội dung do AI tạo ra. Họ cũng cần thận trọng với các bức ảnh chia sẻ cho chatbot, bởi chúng có thể biến thành nguồn dữ liệu đầu vào quan trọng để huấn luyện AI.
+
+Trước đó, khi một số trào lưu tạo ảnh AI diễn ra, giới chuyên gia đã khuyến cáo người dùng nên hạn chế sử dụng ảnh của mình để tạo ảnh AI, vì đồng nghĩa "tự tay" dâng dữ liệu cá nhân cho các công ty đứng sau các mô hình trí tuệ nhân tạo.
+
+Bảo Lâm
+

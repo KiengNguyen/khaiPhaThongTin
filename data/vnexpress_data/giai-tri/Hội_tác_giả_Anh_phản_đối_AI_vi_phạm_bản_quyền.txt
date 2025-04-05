@@ -1,0 +1,28 @@
+Hôm 27/3, Hội tác giả Anh (The Society of Authors, viết tắt là SoA) gửi thư kiến nghị lên Bộ trưởng Bộ Kỹ thuật số, Văn hóa, Truyền thông và Thể thao - Lisa Nandy - qua trang web Change. Họ kêu gọi bà Nandy triệu tập các giám đốc điều hành cấp cao của Meta (công ty mẹ của Facebook và Instagram) đến quốc hội, phản hồi việc tập đoàn dùng sách có bản quyền để đào tạo mô hình AI - Llama 3 - một cách trái phép.
+
+Các thành viên đề nghị Meta cam kết tôn trọng quyền tác giả, không tiếp diễn sai phạm và đền bù thiệt hại trước đây. Đến nay, có gần 5.500 người ký vào văn bản. Một số cái tên nổi bật gồm chủ nhân Nobel Văn học 2017 - Kazuo Ishiguro, tác giả Richard Osman, nhà văn trinh thám Val McDermid, tiểu thuyết gia Kate Mosse và nhiều người làm trong ngành sáng tạo.
+
+Những gương mặt nổi bật trong chiến dịch kêu gọi chính phủ kiểm soát Meta. Từ trái qua: Val McDermid, Kazuo Ishiguro, Richard Osman. Ảnh: Jay Brooks, PR
+
+Trước đó, hôm 20/3, tờ The Atlantic đăng bài The Unbelievable Scale of AI’s Pirated-Books Problem (Quy mô không tưởng của vấn đề sách lậu từ AI). Bài viết đề cập việc Meta dùng dữ liệu từ LibGen làm nguồn phát triển Llama 3. LibGen là trang web chứa hơn 7,5 triệu sách và 81 triệu bài nghiên cứu trái phép, được xem là một trong những "thư viện đen" lớn nhất thế giới. Hồi tháng 1, nhà sáng lập Mark Zuckerberg và các CEO bị ba tác giả Mỹ đệ đơn lên tòa án California vì cho phép doanh nghiệp sử dụng tài liệu lậu. Vụ kiện được nhắc trong văn bản kiến nghị của Hội tác giả Anh.
+
+Trong thư, các thành viên SoA cho biết tức giận khi phát hiện tác phẩm của họ trên LibGen, lo ngại các sáng tác có thể bị lợi dụng. Theo họ, những vụ đối đầu giữa nhà xuất bản, tác giả và Meta phản ánh hành vi "vô đạo đức" của các công ty công nghệ toàn cầu. Hội tác giả yêu cầu chính phủ thay đổi thực trạng, buộc doanh nghiệp trả tiền cho việc dùng sáng tạo của nghệ sĩ.
+
+"Thu thập tác phẩm trên mạng để huấn luyện AI tạo sinh rõ ràng là bất hợp pháp ở Anh, nhưng nhiều gã khổng lồ công nghệ như Meta vẫn làm ăn tại đây mà không bị điều tra tất cả hoạt động của họ, cũng như công ty mẹ. Các tác giả gần như bất lực trước tình cảnh này vì chi phí kiện tụng quá lớn, quy trình pháp lý phức tạp để có thể theo đuổi vụ kiện chống lại những tập đoàn giàu có", trích văn bản.
+
+SoA kêu gọi chính phủ bảo vệ quyền, lợi ích và kế sinh nhai của nhà văn. "Nếu không hành động kịp thời, tất cả tác giả ở Anh sẽ đối mặt hậu quả vô cùng nghiêm trọng, không thể sửa đổi. Điều này lý giải bằng việc suốt quá trình AI phát triển, quyền của các nhà sáng tạo liên tục bị phớt lờ", hiệp hội đưa ra lời cảnh báo trong thư.
+
+Chân dung nhà sáng lập Meta - Mark Zuckerberg. Ảnh: Reuters
+
+Trò chuyện với Guardian ngày 31/3, nhà văn Val McDermid cho biết: "Chúng ta từ lâu đã tuân theo nghĩa vụ hợp đồng về việc khi bên thứ ba dùng một tác phẩm, họ phải trả thù lao cho tác giả. Dù chuyển thể, biên dịch hay photocopy, họ phải chấp nhận trả công vì chính thành quả sáng tạo của chúng tôi đã giúp AI tạo ra nội dung".
+
+Nhà văn Kate Mosses - một trong những người ký thư - cho rằng luật pháp thể hiện rõ ràng các vấn đề bảo vệ bản quyền, điều khoản cấp phép. Do đó, bà gọi hành động của Meta là "hành vi trộm cắp trên diện rộng cần phải chấm dứt".
+
+Những năm gần đây, vấn đề AI can thiệp vào ngành sáng tác ngày càng phổ biến, gợi lên nhiều tranh luận về khả năng sáng tạo của máy móc. Nhiều tác giả phản đối vì cho rằng máy móc chỉ biết sao chép các nguồn tranh, văn thơ sẵn có để tạo tác phẩm mới. Giới nghệ sĩ cũng liên tục ký các văn bản kêu gọi chính phủ cấm AI gia nhập lĩnh vực nghệ thuật để bảo vệ quyền lợi người làm sáng tạo.
+
+Mặt khác, một số bộ phận lạc quan tương lai của nghề viết dưới sự phát triển của trí tuệ nhân tạo. Hôm 12/3, Sam Altman - CEO của OpenAI, công ty đứng sau ChatGPT - khiến văn giới xôn xao khi đăng truyện ngắn A machine-shaped hand do AI viết. Trên trang X, anh nhận xét tác phẩm "truyền tải đúng cảm giác của tiểu thuyết siêu hư cấu". Tác giả Anh Jeanette Winterson cho rằng truyện ngắn "đẹp và cảm động".
+
+Ở Nhật hôm 25/3, tạp chí Kohkoku xuất bản tác phẩm do ChatGPT viết 95%, lấy bối cảnh thế giới sau khi nhân loại tuyệt chủng. Nhà văn Rie Kudan, người hướng dẫn AI và chịu trách nhiệm 5% còn lại, cho biết trải nghiệm sáng tác cùng trí tuệ nhân tạo giúp cô suy ngẫm lại ý nghĩa việc viết truyện hư cấu.
+
+Phương Thảo (theo Guardian)
+

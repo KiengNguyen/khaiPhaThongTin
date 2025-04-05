@@ -1,0 +1,16 @@
+Bộ Khoa học và Công nghệ ban hành thông tư về việc sửa đổi, bổ sung một số thiết bị vô tuyến điện được miễn giấy phép sử dụng tần số vô tuyến điện, điều kiện kỹ thuật và khai thác. Trong đó có việc thêm phổ tần 500 MHz trong băng tần 6 GHz (dải tần 5925-6425 MHz) cho thiết bị mạng nội bộ không dây (WLAN/RLAN), thường được biết đến là wifi, hoạt động theo hình thức miễn cấp phép.
+
+Một mẫu router Internet. Ảnh: Bảo Lâm
+
+Theo quy định mới, một trong những điều kiện bổ sung phổ tần là việc sử dụng thiết bị phải ở trong nhà hoặc môi trường có tính năng che chắn sóng điện từ. Tổ chức, cá nhân triển khai, sử dụng thiết bị wifi cần tuân thủ quy định viễn thông, an toàn thông tin và bảo vệ dữ liệu. Người dùng cũng không được sử dụng trên thiết bị, hệ thống máy bay không người lái, drone.
+
+Trên thực tế, các thiết bị mạng nội bộ không dây điển hình có thể kể đến điểm truy cập không dây (access point), bộ định tuyến không dây (wifi router), bộ điều hợp mạng không dây (wifi card)... Trước đây, phổ tần dùng cho thiết bị wifi tại Việt Nam chủ yếu ở băng tần 2.4 và 5 GHz. So với hai băng tần này, 6 GHz có băng thông rộng hơn, truyền tải dữ liệu tốc độ cao hơn, giảm độ trễ khi sử dụng ứng dụng yêu cầu băng thông lớn như video 4K, hội nghị trực tuyến, chơi game online.
+
+Các băng tần 2.4 và 5 GHz hiện quá tải do nhiều thiết bị sử dụng. Do đó, việc bổ sung tần số 6 GHz giúp phân tán lưu lượng, giảm tình trạng nhiễu sóng và tắc nghẽn, từ đó cải thiện độ ổn định của kết nối wifi.
+
+"Đây là bước đi quan trọng để đáp ứng nhu cầu cao về tốc độ và dung lượng kết nối không dây, đồng thời góp phần thúc đẩy sự phát triển của hạ tầng viễn thông và hạ tầng số quốc gia", đại diện Cục Tần số vô tuyến điện cho biết.
+
+Bên cạnh bổ sung tần số cho thiết bị wifi, thông tư mới cũng sửa đổi băng tần "326,5 kHz, 340 kHz" và "353-373,5 kHz" thành băng tần "315-400 kHz" dùng cho thiết bị sạc không dây.
+
+Trọng Đạt
+

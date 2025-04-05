@@ -1,0 +1,32 @@
+Chương trình tập huấn do trường Đại học FPT, Tập đoàn FPT, triển khai từ tháng 6/2024. Với sự hỗ trợ và hợp tác của Sở Giáo dục và Đào tạo các tỉnh thành, chương trình ngày càng mở rộng, áp dụng linh hoạt cả hai hình thức đào tạo trực tuyến và trực tiếp tại các cơ sở của trường. Điều này góp phần thực hiện Nghị quyết 57 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia.
+
+Sau 10 tháng triển khai, "STEM Education in AI Era" đã tổ chức hơn 10 buổi tập huấn, đào tạo phương pháp giáo dục STEM cho tổng cộng hơn 5.000 giáo viên THPT miền Trung và Nam. Trong đó, hai buổi tập huấn vào ngày 29-30/3 tại TP HCM và Quy Nhơn đã thu hút hơn 500 giáo viên từ hơn 80 trường THPT tại Bà Rịa - Vũng Tàu, Bình Định, Bình Thuận, Phú Yên, Khánh Hòa và Gia Lai.
+
+Một buổi tập huấn về STEM của trường Đại học FPT. Ảnh: Trường Đại học FPT
+
+Chương trình kết hợp lý thuyết và thực hành, tập trung vào ứng dụng thực tiễn của AI và STEM trong giáo dục. Dưới sự hướng dẫn của giảng viên ngành Công nghệ thông tin của trường Đại học FPT, giáo viên tiếp cận 6 nội dung chuyên sâu, gồm: Ứng dụng AI trong giảng dạy THPT; Teachable Machine - công cụ huấn luyện mô hình AI; Vi điều khiển Micro:bit; Data Visualization - Phân tích và trực quan hóa dữ liệu với Python; Raspberry Pi Car - Xe tự hành trí tuệ nhân tạo; MIT App Inventor - Xây dựng ứng dụng di động (mobile app).
+
+Bên cạnh đó, người tham gia cũng trực tiếp thực hành lắp ráp và vận hành Raspberry Pi Car bằng cách sử dụng Breadboard, vi điều khiển Pico, lập trình, thử nghiệm trên mô trường giả lập Wokwi.
+
+Giáo viên ứng dụng kiến thức từ buổi tập huấn trực tuyến vào thực hành lắp ráp và vận hành Raspberry Pi Car - Xe tự hành trí tuệ nhân tạo. Ảnh: Trường Đại học FPT
+
+Các buổi đào tạo nhận được phản hồi tích cực từ giáo viên tham dự, đặc biệt về tính thực tiễn và khả năng ứng dụng cao vào việc giảng dạy học sinh phổ thông. Thầy Trần Huy Bình (Trường THPT Chuyên Chu Văn An, Bình Định) chia sẻ, khóa học giúp anh mở rộng kiến thức về giảng dạy STEM, đồng thời, cung cấp nhiều công cụ hữu ích, hỗ trợ trực tiếp cho công tác giảng dạy.
+
+Song song, trường Đại học FPT tài trợ gần 100 bộ STEM Kit trong hai buổi tập huấn ngày 29-30/3, nâng tổng số lên khoảng 500. Bộ kit này bao gồm các công cụ giúp giáo viên hướng dẫn học sinh lập trình, thực hiện dự án IoT (Internet vạn vật), điều khiển robot và khám phá trí tuệ nhân tạo qua trải nghiệm thực tế.
+
+"Với những kiến thức được đào tạo ở các buổi tập huấn cùng bộ STEM Kit được tài trợ, tôi có thêm điều kiện và khả năng để triển khai STEM tại trường hiệu quả hơn", cô Thanh Thúy (Trường THPT Phan Đình Phùng, Phú Yên) cho biết.
+
+Trường Đại học FPT tài trợ STEM Kit, giúp các giáo viên nâng cao hiệu quả giáo dục STEM. Ảnh: Trường Đại học FPT
+
+Các buổi tập huấn "STEM Education in AI Era" do trường Đại học FPT triển khai nhằm hỗ trợ giáo viên THPT tiếp cận công nghệ tiên tiến và đổi mới phương pháp giảng dạy, thích ứng với những thay đổi của thời đại số. Đây là một phần trong chương trình "Trường Đại học FPT vì cộng đồng", hướng đến nâng cao chất lượng giáo dục phổ thông qua áp dụng AI và STEM vào giảng dạy.
+
+Theo ông Lê Bình Trung - Giám đốc Tuyển sinh trường Đại học FPT, Tập đoàn FPT, dự án không chỉ kết nối giảng viên của trường với giáo viên THPT, mà còn giúp học sinh tiếp cận công nghệ STEM từ sớm.
+
+"Đây là bước đi quan trọng trong việc thúc đẩy giáo dục cộng đồng, trang bị kỹ năng cần thiết trong thời đại AI, phù hợp với sứ mệnh của trường Đại học FPT: Cung cấp năng lực cạnh tranh toàn cầu cho đông đảo người học, góp phần mở mang bờ cõi trí tuệ đất nước", ông nhấn mạnh.
+
+Trong thời gian tới, chương trình "STEM Education in AI Era" sẽ tiếp tục mở rộng, đào tạo kiến thức cho nhiều giáo viên THPT hơn, trong đó, gần nhất là buổi tập huấn STEM tại Đăk Lăk vào ngày 12/4.
+
+Bên cạnh các chương trình tập huấn STEM dành cho giáo viên, trường Đại học FPT tổ chức nhiều hoạt động giúp học sinh THPT và sinh viên nâng cao kỹ năng ứng dụng AI. Qua các ngày hội trải nghiệm công nghệ, hội thảo chuyên đề về sử dụng AI, an toàn an ninh mạng và ứng dụng AI trong học tập, trường tạo điều kiện để người học tiếp cận và làm chủ công nghệ nhanh chóng, hiệu quả hơn.
+
+Nhật Lệ
+

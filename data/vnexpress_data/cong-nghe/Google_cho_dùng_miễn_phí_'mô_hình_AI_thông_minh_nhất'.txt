@@ -1,0 +1,18 @@
+Chỉ ít ngày sau khi ra mắt, Google hôm qua thông báo "triển khai Gemini 2.5 Pro bản thử nghiệm cho tất cả người dùng Gemini". Đây là động thái gây bất ngờ bởi khi giới thiệu hôm 25/3, dịch vụ này chỉ dành cho những người đăng ký Gemini Advanced có trả phí, trong đó gói thấp nhất Google One AI Premium giá 19,99 USD/tháng tại Mỹ.
+
+Người dùng hiện có thể sử dụng Gemini 2.5 Pro trên nền tảng web và sẽ sớm có mặt trên các ứng dụng Android và iOS.
+
+Gemini 2.5 Pro đang cho dùng thử miễn phí. Ảnh: Chrome Unboxed
+
+Google cho biết công ty muốn "đưa mô hình AI thông minh nhất đến tay càng nhiều người dùng, càng sớm càng tốt". Gemini 2.5 Pro thử nghiệm hiện đang đứng đầu bảng xếp hạng LMArena, đồng thời dẫn đầu cả về điểm chuẩn toán học và khoa học. Google nói đang nỗ lực cải thiện cả hiệu suất viết mã của mô hình này.
+
+Được Google giới thiệu là "mô hình AI thông minh nhất", Gemini 2.5 Pro tích hợp khả năng suy nghĩ thay vì cung cấp các yêu cầu như một biến thể riêng biệt. Hiện tại, mô hình vẫn trong giai đoạn thử nghiệm nhưng đã hỗ trợ một số tính năng như thao tác với ứng dụng, tiện tích mở rộng (extension), tải tập tin lên và cả Canvas.
+
+Các mô hình như Gemini 2.5 Pro có thể tự suy luận, phân tích các bước logic trong "suy nghĩ" trước khi đưa ra phản hồi. Mục tiêu là nâng cao hiệu suất, cải thiện độ chính xác, đặc biệt khi xử lý các vấn đề phức tạp.
+
+Mô hình AI mới của Goolge cũng đạt điểm 18,8% trên bộ dữ liệu "Humanity’s Last Exam", bài kiểm tra được thiết kế bởi hàng trăm chuyên gia nhằm đánh giá giới hạn kiến thức và khả năng lập luận của con người. Đây được coi là kết quả rất tốt so với các mô hình không cần dùng đến công cụ hỗ trợ.
+
+Theo 9to5google, Gemini 2.5 Pro vượt trội trong việc tạo ra các ứng dụng web có giao diện hấp dẫn, các ứng dụng mã tác nhân (agentic code), cũng như chuyển đổi và chỉnh sửa mã nguồn. Trên thang đo SWE-Bench Verified, Gemini 2.5 Pro cũng đạt 63,8% khi sử dụng thiết lập tác nhân tùy chỉnh.
+
+Hoài Anh
+

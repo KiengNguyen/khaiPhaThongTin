@@ -1,0 +1,26 @@
+"Mật khẩu của bạn có thể dễ dàng bị quên hoặc bị kẻ tấn công đoán ra. Do đó, đây là lúc thích hợp xóa hoàn toàn mật khẩu khỏi tài khoản", theo thông báo tuần này từ Microsoft trên blog. "Microsoft đang triển khai trải nghiệm đăng nhập mới cho hơn một tỷ người dùng cuối. Giải pháp của chúng tôi có thể giúp cải thiện việc đăng nhập cho tất cả khách hàng".
+
+Giao diện đăng nhập tài khoản Microsoft bằng passkey. Ảnh: Microsoft
+
+Microsoft cho biết đã sử dụng passkey thay cho mật khẩu trên hầu hết dịch vụ như Windows, Xbox, Microsoft 365. So với phương thức passkey tương tự từ các hãng khác, việc đăng nhập dễ dàng hơn nhờ tận dụng ngôn ngữ thiết kế mới là Fluent 2, giúp người dùng chuyển đổi liền mạch giữa xác thực và trải nghiệm sản phẩm.
+
+"Fluent 2 được đơn giản hóa về thiết kế và luồng xác thực là bước đầu tiên. Chúng tôi đã giảm số lượng khái niệm trên màn hình để tránh mất tập trung, qua đó tăng tốc quá trình xác thực, đồng thời sắp xếp lại một số bước để luồng logic hơn", đại diện Microsoft cho biết.
+
+Cũng Microsoft, người dùng khi đăng ký tài khoản mới chỉ cần nhập địa chỉ email là đủ. "Bạn không cần tạo mật khẩu Microsoft mới. Tất cả những gì bạn cần làm là xác minh email bằng mã một lần và đây sẽ trở thành thông tin xác thực mặc định. Do đó, bạn sẽ bắt đầu mọi thứ không cần mật khẩu", hãng giải thích.
+
+Passkey là giải pháp được nhiều công ty sử dụng để thay thế cho mật khẩu và mã xác thực hai yếu tố (2FA). Thay vì nhập các ký tự vào màn hình, việc xác thực sẽ thông qua thiết bị bên thứ ba. Thiết bị này sẽ liên kết với tài khoản và đóng vai trò là công cụ xác thực. Khi đăng nhập, một yêu cầu mở khóa sẽ được chuyển đến thiết bị này, thường sẽ xác thực bằng vân tay hoặc nhận dạng khuôn mặt.
+
+"Không như mật khẩu, đăng nhập bằng passkey không bị rò rỉ hoặc bị đánh cắp, vì nó yêu cầu thiết bị phần cứng vật lý từ bên ngoài. Và không giống 2FA, nó không thể bị chặn hoặc bỏ qua", theo Forbes.
+
+"Vào cuối tháng 4, hầu hết người dùng Microsoft sẽ thấy trải nghiệm mới khi đăng ký và đăng nhập trên ứng dụng web và di động", công ty cho biết. "Mục tiêu cuối cùng của chúng tôi là xóa hoàn toàn mật khẩu, chỉ còn phương thức xác thực để chống lừa đảo".
+
+Microsoft không phải là công ty đầu tiên sử dụng passkey. Tuy nhiên, với cơ sở hơn một tỷ người dùng, giới chuyên gia đánh giá động thái mới sẽ tác động sâu rộng, giúp thay đổi thói quen đăng nhập tài khoản.
+
+"Đây là một cột mốc thú vị và quan trọng khi Microsoft đang loại bỏ mật khẩu khỏi hơn một tỷ tài khoản người dùng để sử dụng passkey, phương thức vốn thân thiện với người dùng và chống lừa đảo tốt hơn", Andrew Shikiar, người đứng đầu Liên minh FIDO - tổ chức ra đời năm 2013 với sứ mệnh phát triển và bảo vệ tài khoản trực tuyến dễ dàng, an toàn mà không phụ thuộc hoàn toàn vào mật khẩu.
+
+Dữ liệu từ Liên minh FIDO công bố đầu năm cũng cho thấy "sự quen thuộc với passkey" đang tăng lên. Trong giai đoạn 2022-2024, nhận thức về khóa mật khẩu đã tăng 50%, từ 39% vào năm 2022 lên 57% vào năm 2024.
+
+Tuy vậy, nhược điểm của passkey là phải có kết nối Internet. Theo Windows Central, Microsoft đang điều chỉnh một dòng lệnh phổ biến cho phép người dùng bỏ qua kết nối Internet và đăng nhập tài khoản khi thiết lập PC Windows 11 mới, gọi là "passnro". Công ty Mỹ sau đó xác nhận đang xóa tập lệnh bypassnro.cmd để giúp đăng nhập qua passkey không cần mật khẩu, nhưng không đề cập chi tiết.
+
+Bảo Lâm - Huy Đức
+

@@ -1,0 +1,20 @@
+Theo số liệu mới được công bố của AITools, DeepSeek có thêm 525 triệu lượt truy cập web mới vào tháng 2, còn ChatGPT có thêm 500 triệu lượt. Mô hình AI của Trung Quốc nhờ vậy trở thành bên có tốc độ tăng trưởng mạnh nhất, đứng trên những cái tên nổi tiếng như ChatGPT, Canva, Grok.
+
+DeepSeek đứng đầu về số người dùng mới truy cập nền tảng web hàng tháng. Ảnh: AITools
+
+Tuy nhiên, DeepSeek không dễ tiếp cận vị trí số một của ChatGPT. Mô hình của OpenAI có hơn 5 tỷ lượt truy cập web hàng tháng, chiếm 43,16% thị phần. Đứng thứ hai là AI tạo ảnh Canva với gần một tỷ lượt. DeepSeek đứng thứ ba với gần 800 triệu lượt, chiếm 6,58% thị phần.
+
+Trước đó, theo dữ liệu của QuestMobile, ứng dụng DeepSeek vượt ChatGPT về số người dùng hoạt động hàng ngày vào cuối tháng 1 và vượt con số 30 triệu người dùng đầu tháng 2. DeepSeek cũng trở thành ứng dụng nhanh nhất trong lịch sử đạt cột mốc này, vượt qua nhiều nền tảng từ các công ty công nghệ lớn.
+
+DeepSeek đứng thứ ba về số người dùng công cụ AI trên nền tảng web. Ảnh: AITools
+
+Vào tháng 2, DeepSeek cũng lọt top 5 ứng dụng AI có người dùng hàng tháng (MAU) nhiều nhất, theo thống kê của Aicpb, với 33,7 triệu, sau Nova AI, một chatbot tổng hợp GPT, và Gemini với 56,6 triệu, Doubao 78,61 triệu, trong khi ChatGPT đạt hơn 349 triệu người dùng hàng tháng.
+
+Trung Quốc là thị trường sử dụng DeepSeek nhiều nhất, chiếm 30,71%, trong khi Ấn Độ là 13,59%, Indonesia 6,94%, Mỹ 4,34%.
+
+Giao diện DeepSeek cùng logo của công ty. Ảnh: Tuấn Hưng
+
+DeepSeek được thành lập năm 2023 bởi Liang Wenfeng, đồng sáng lập của quỹ đầu tư chuyên về AI High Flyer. Công ty bắt đầu phát triển DeepSeek vào tháng 4/2023, trước khi ra mắt mô hình suy luận R1 hôm 20/1. Cách làm của công ty Trung Quốc được các công ty về AI lớn như Microsoft, OpenAI, Nvidia đánh giá cao. Tuy nhiên, nó cũng gây nhiều tranh cãi như nghi vấn về số tiền phát triển có thể lên tới tỷ USD, "chưng cất" kiến thức từ các mô hình đi trước, nguy cơ mất an toàn thông tin.
+
+Hoài Anh
+
